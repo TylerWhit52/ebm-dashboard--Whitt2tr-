@@ -1,0 +1,106 @@
+# Stakeholder Analysis
+# Identify and analyze all parties affected by your problem and solution
+
+## Internal Stakeholders
+
+### Senior Management
+- **Interest in Problem:** Management malpractice can result in lawsuits, brand damage, and the loss of key talent.
+- **Interest in Solution:** A formal oversight system could reduce liability and improve team reputation, especially with sponsors and fans.
+- **Influence Level:** High
+- **Support Level:** Neutral to resistant (some may oppose oversight that limits internal control)
+
+### Middle Management
+- **Interest in Problem:** The issue affects their credibility and potential income. Ethical agents want protection from reputational spillover.
+- **Interest in Solution:** Ethical agents may support reforms, while unethical ones may resist new rules or audits.
+- **Influence Level:** High
+- **Support Level:** Mixed – depends on how the solution impacts their autonomy and income
+
+### Employees/Staff (Medical staff, trainers, support personnel)
+- **Interest in Problem:** May be pressured to cover up injuries or make unsafe medical decisions
+- **Interest in Solution:** Likely to support reforms that protect their professional integrity and shield them from pressure
+- **Influence Level:** Medium
+- **Support Level:** Likely supporter
+
+### Other Internal Groups
+- **Department/Group:** Team Compliance or Legal Departments
+- **Interest in Problem:** Malpractice increases organizational risk and legal exposure
+- **Interest in Solution:** Compliance departments benefit from clearly defined ethical policies and enforcement protocols
+- **Influence Level:** Medium to High
+- **Support Level:** Strong supporter
+
+## External Stakeholders
+
+### Customers/Clients (Fans)
+- **Interest in Problem:** Fans expect fair treatment of athletes and are discouraged by scandals
+- **Interest in Solution:** Improved ethics enhances league credibility and fan loyalty
+- **Influence Level:** Medium (via public opinion, merchandise sales, ticket buying)
+- **Support Level:** Likely supporter
+
+### Suppliers/Partners (Sponsors, Endorsement Partners)
+- **Interest in Problem:** Scandals involving athlete mistreatment can damage brand alignment
+- **Interest in Solution:** Brands prefer partnerships with teams and athletes in well-regulated environments
+- **Influence Level:** High
+- **Support Level:** Strong supporter
+
+### Regulatory Bodies (Leagues, Player Associations)
+- **Interest in Problem:** Responsible for setting and enforcing rules of conduct
+- **Interest in Solution:** Can integrate ethical standards and enforce disciplinary action
+- **Influence Level:** High (rule-making authority)
+- **Support Level:** Mixed – some unions support reforms; leagues may resist central oversight
+
+### Community/Society (Public, Media, Advocacy Groups)
+- **Interest in Problem:** Malpractice may reflect broader concerns like worker exploitation, healthcare access, or racial injustice
+- **Interest in Solution:** Broader public may push for reform through media and social platforms
+- **Influence Level:** Medium
+- **Support Level:** Supporter (especially through public pressure)
+
+---
+
+## Stakeholder Engagement Strategy
+
+### High Influence, High Interest (Manage Closely)
+- **Team Executives, League Officials, Player Associations**  
+  *Engage through closed-door policy sessions, formal presentations, and legal briefings*
+
+### High Influence, Low Interest (Keep Satisfied)
+- **Sponsors, Brand Partners**  
+  *Update regularly on reform outcomes and compliance wins to maintain confidence*
+
+### Low Influence, High Interest (Keep Informed)
+- **Athletes, Medical Staff, Advocacy Groups**  
+  *Provide transparent updates, offer participation in feedback surveys or forums*
+
+### Low Influence, Low Interest (Monitor)
+- **General Public, Non-sports media**  
+  *Monitor perception trends and address concerns only when issues go viral or generate attention*
+
+---
+
+## Key Stakeholder Insights for Evidence Collection
+
+### Who to Interview/Survey
+- Professional athletes (retired and active)
+- Agents and team compliance officers
+- Union representatives (e.g., NFLPA, NBPA)
+- Medical professionals associated with sports teams
+- League officials and executive managers
+
+### What Questions to Ask
+- To athletes: "Have you ever experienced or witnessed management malpractice? What were the consequences?"
+- To agents: "What safeguards do you believe protect athletes from poor management decisions?"
+- To unions/leagues: "What systems are currently in place for ethical oversight? Are they effective?"
+- To medical staff: "Have you felt pressured to clear athletes prematurely or hide injuries?"
+- To sponsors: "How do scandals involving athletes influence your brand decisions?"
+
+### How to Engage
+- **Athletes:** Anonymous surveys, union focus groups
+- **Agents/Managers:** Confidential interviews or ethics questionnaires
+- **Leagues/Unions:** Formal requests for policy documents or interviews
+- **Medical staff:** Interviews under confidentiality protections
+- **Sponsors:** Brand reputation surveys or executive interviews
+---
+INSTRUCTIONS:
+1. Be specific about each stakeholder group's interests and influence
+2. Consider both obvious and hidden stakeholders
+3. Think about implementation challenges from stakeholder perspectives
+4. This analysis will guide your stakeholder evidence collection
