@@ -60,19 +60,27 @@
 
 ### High Influence, High Interest (Manage Closely)
 - **Team Executives, League Officials, Player Associations**  
-  *Engage through closed-door policy sessions, formal presentations, and legal briefings*
+  League officials and governing bodies (they have the authority to enforce changes and a strong interest in protecting the sport’s reputation) and players’ unions (they wield collective bargaining power and are highly invested in athlete welfare).
 
 ### High Influence, Low Interest (Keep Satisfied)
-- **Sponsors, Brand Partners**  
-  *Update regularly on reform outcomes and compliance wins to maintain confidence*
+- **Sponsors, Brand Partners,Team owners**  
+  *They hold significant decision-making power but may show lower interest in oversight reforms unless their own autonomy or profits are affected. Update regularly on reform outcomes and compliance wins to maintain confidence*
+owner specific- Team Owners: Introduce changes gradually and offer practical support to reduce any burden – for example, 
+phased implementation of compliance requirements and adoption of technology tools to automate and simplify
+ oversight tasks. This approach shows owners that oversight can coexist with operational efficiency and won’t cripple their autonomy overnight
 
 ### Low Influence, High Interest (Keep Informed)
 - **Athletes, Medical Staff, Advocacy Groups**  
   *Provide transparent updates, offer participation in feedback surveys or forums*
+athlete specific- Work through the players’ union to involve athletes in the reform process,
+ and provide safe channels (like anonymous grievance hotlines) for players to report malpractice 
+ without fear of retaliation.
 
 ### Low Influence, Low Interest (Monitor)
 - **General Public, Non-sports media**  
   *Monitor perception trends and address concerns only when issues go viral or generate attention*
+Media/fan specific-Proactively share transparency reports and success stories. Publicizing the organization’s commitment to athlete welfare (e.g. regular updates on safety improvements and financial education programs) will reassure sponsors and fans, strengthening the brand and fan loyalty by showing that the sport is being managed with integrity.
+By tailoring messages and incentives in this way, each stakeholder is more likely to buy into the oversight initiative based on their interests and concerns.”*
 
 ---
 
@@ -99,6 +107,13 @@
 - **Medical staff:** Interviews under confidentiality protections
 - **Sponsors:** Brand reputation surveys or executive interviews
 ---
+#Stakeholder conflicts
+Several stakeholder groups are likely to resist aspects of the oversight initiative, each for specific reasons. Team owners and leagues may worry 
+about the costs of implementing vetting and audit systems and the administrative burden of compliance paperwork. They could also fear that stricter oversight might create competitive 
+disadvantages (for instance, if some teams adapt more slowly than others) and increase liability exposure by documenting problems that could lead to legal action. Agents and managers might resist 
+because tighter regulations and transparency in financial dealings could threaten their income streams, especially if they have been benefitting from opaque fee structures. In contrast, players 
+strongly desire protection and oversight, while some team executives prioritize autonomy – this fundamental tension between athlete welfare and management control is at the heart of the conflict.
+
 INSTRUCTIONS:
 1. Be specific about each stakeholder group's interests and influence
 2. Consider both obvious and hidden stakeholders

@@ -1,191 +1,69 @@
 # Stakeholder Evidence: Methods & Engagement Strategy
-# Document your approach to gathering stakeholder perspectives and feedback
 
-## Stakeholder Evidence Goals
-**Primary Goal:** [What stakeholder insights do you need about your problem?]
-**Secondary Goal:** [What stakeholder feedback do you need about potential solutions?]
+## How We Collected Stakeholder Input
+Instead of interviewing athletes or team staff directly, we relied on public, first-hand material that already exists — things like surveys, athlete interviews, legal filings, podcasts, panel discussions, and even Reddit AMAs where former athletes talk honestly about their experiences.
 
-## Target Stakeholder Groups
+One useful example was an NFLPA health and safety survey showing that 78% of players don’t trust team doctors. We also looked at stories from retired players and testimonies from lawsuits. In one high-profile case, former NFL players said team doctors were financially rewarded for denying injury claims.
 
-### Internal Stakeholders
-#### Management/Leadership
-- **Target Participants:** [Specific roles or levels]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from leadership]
-- **Expected Response Rate:** [Realistic participation estimate]
+Using this type of evidence let us get genuine stakeholder viewpoints without pretending to collect “new” data. Everything we used was publicly available and ethically safe — no deception, no privacy issues, just real voices already out there.
 
-#### Employees/Staff
-- **Target Participants:** [Departments, roles, or demographic groups]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from employees]
-- **Expected Response Rate:** [Realistic participation estimate]
+## Who We Considered Stakeholders & How We Sampled Them
+To understand how sports-management malpractice harms athletes, we pulled in perspectives from a mix of groups: current players, retired players, unions, team executives, agents, medical staff, and fans/media.
 
-#### Other Internal Groups
-[Additional internal stakeholder categories]
+We didn’t try to be fully “random.” Instead, we chose representative sources from each group. For example:
+- Statements from the NFLPA president to represent the organized player voice.
+- Interviews with retired athletes discussing long-term injuries and financial struggles.
+- Comments from agents/financial advisors who’ve seen players get taken advantage of.
+- League office press conferences to see how management frames these issues.
 
-### External Stakeholders
-#### Customers/Clients
-- **Target Participants:** [Customer segments or types]
-- **Engagement Method:** [Surveys, interviews, feedback sessions]
-- **Key Questions Focus:** [What you most need to learn from customers]
-- **Expected Response Rate:** [Realistic participation estimate]
+Think of it like running a “virtual” focus group using real public sources. It gave us a balanced mix of views without crossing ethical lines.
 
-#### Partners/Suppliers
-- **Target Participants:** [Types of business partners]
-- **Engagement Method:** [Interviews, surveys, informal discussions]
-- **Key Questions Focus:** [What you most need to learn from partners]
-- **Expected Response Rate:** [Realistic participation estimate]
+## What Each Stakeholder Group Thinks (and Why it Matters)
 
-## Data Collection Methods
+### Current & Former Players
+These are the people most affected, so their perspective matters the most.
+Interest: Extremely high.
+Power: Medium on their own, higher when organized.
 
-### Survey Design
-#### Online Survey Platform
-- **Platform Choice:** [SurveyMonkey, Google Forms, Qualtrics, etc.]
-- **Survey Length:** [Estimated completion time]
-- **Question Types:** [Mix of multiple choice, rating scales, open-ended]
-- **Incentives:** [What you'll offer for participation]
+Active players often don’t feel comfortable calling out their teams, but retired players speak much more openly. Many describe feeling disposable — one former NFL player said the league acts like it cares when cameras are rolling, but not afterward. Their experiences give the issue real emotional weight and make it clear why malpractice is such a problem.
 
-#### Key Survey Questions
-**Problem Assessment Questions:**
-- How frequently do you encounter [problem description]?
-- How significantly does this problem impact your work/experience?
-- What do you see as the main causes of this problem?
+### Players’ Unions
+Unions fight for players’ safety, benefits, and long-term health.
+Interest: Very high.
+Power: High.
 
-**Solution Feedback Questions:**
-- How would you rate the feasibility of [proposed solution]?
-- What concerns do you have about implementing this solution?
-- What would make this solution more effective?
+They regularly call out conflicts of interest — for example, concerns about team doctors not being independent. They also highlight how leagues tend to prioritize revenue first. Their public statements helped us understand the organized, policy-focused side of the issue.
 
-**Priority and Support Questions:**
-- How important is solving this problem compared to other priorities?
-- What level of support would you provide for this initiative?
-- What resources should be allocated to address this problem?
+### Team Owners & League Executives
+Owners and league officials care deeply about money, reputation, and avoiding scandals.
+Interest: High for business reasons, lower for long-term player welfare.
+Power: Extremely high.
 
-### Interview Protocol
-#### Interview Structure
-- **Duration:** [Target length for each interview]
-- **Format:** [In-person, phone, video conference]
-- **Recording:** [Will interviews be recorded? How?]
-- **Note-taking:** [How will you capture responses]
+Commissioners often emphasize how much support leagues *claim* to offer, but other evidence shows management sometimes hides or downplays medical issues to avoid cost. Reviewing this group’s statements helped us see how they justify current policies and where resistance to reform might come from.
 
-#### Interview Questions
-**Opening Questions:**
-- Tell me about your role and how this problem affects you
-- How long have you been aware of this issue?
+### Sports Agents & Financial Advisors
+These people influence players’ contracts and financial decisions.
+Interest: Mixed — some protect players, others exploit them.
+Power: Moderate.
 
-**Problem Exploration:**
-- Can you describe a specific example of when this problem occurred?
-- What impact has this problem had on your work/experience?
-- What do you think causes this problem?
+Players often trust advisors with everything, which makes financial exploitation dangerous. Between 2004–2017, athletes lost around $500 million to advisor fraud. This helped us see how poor oversight can destroy financial stability long after an athlete retires.
 
-**Solution Discussion:**
-- What solutions have you considered or tried?
-- How do you think [proposed solution] would work in practice?
-- What challenges or barriers do you foresee?
+### Medical Staff (Team Doctors & Trainers)
+They’re supposed to protect athletes — but they’re also hired by the team.
+Interest: High professionally, but loyalty can be conflicted.
+Power: Moderate.
 
-**Implementation Questions:**
-- What would success look like from your perspective?
-- What support would you need to make this solution work?
-- Who else should be involved in addressing this problem?
+The conflict of interest is a big reason so many players say they don’t trust team medical staff. We also looked at malpractice cases, including huge settlements for negligent surgeries. These patterns show how medical decisions can be influenced by team priorities, not patient health.
 
-### Focus Groups (if applicable)
-#### Focus Group Design
-- **Group Size:** [Target number of participants per group]
-- **Number of Groups:** [How many focus groups planned]
-- **Group Composition:** [Homogeneous or mixed stakeholder groups]
-- **Facilitation:** [Who will facilitate and how]
+### Fans & Media
+They’re not directly affected, but they shape public pressure.
+Interest: Medium.
+Power: Indirect but strong when public sentiment shifts.
 
-## Sampling Strategy
+Fans and journalists push leagues to act when something tragic or unfair happens. Their voices help frame the issue as a moral one — not just a business one.
 
-### Stakeholder Identification
-#### Stakeholder Mapping
-[List specific individuals or groups you'll target]
+## Ethical Approach & How We Analyzed the Data
+Everything we used came from the public domain — no sensitive data, no personal contact, no ethical risks. We cross-checked claims wherever possible to avoid relying on a single biased source. When players mentioned struggles, we matched those stories against independent medical studies.
 
-#### Sampling Approach
-- **Total Target Sample:** [Number of stakeholders to engage]
-- **Sampling Method:** [Random, purposive, convenience, stratified]
-- **Representation Goals:** [What diversity of perspectives you want]
+Using this method gave us a reliable picture of how malpractice affects athletes’ health and finances while still respecting every stakeholder’s privacy. It also helped us build a long-term, ethical understanding of the issue without pretending we gathered new data ourselves.
 
-### Recruitment Strategy
-#### Outreach Method
-**Email Invitation Template:**
-[Draft your stakeholder outreach message]
-
-**Follow-up Strategy:**
-[How and when you'll follow up with non-responders]
-
-**Gatekeepers:**
-[Who might help you reach stakeholders or whose permission you need]
-
-## Ethical Considerations
-
-### Informed Consent
-- **Purpose Explanation:** [How you'll explain the research purpose]
-- **Participation Voluntariness:** [Making clear that participation is optional]
-- **Data Use:** [How you'll explain how their input will be used]
-- **Anonymity/Confidentiality:** [What privacy protections you'll provide]
-
-### Organizational Permissions
-- **Supervisor Approval:** [Do you need management approval for stakeholder engagement?]
-- **HR Consultation:** [Should you coordinate with HR for employee surveys/interviews?]
-- **External Stakeholder Protocols:** [Any special considerations for external stakeholders?]
-
-## Timeline and Logistics
-
-### Data Collection Schedule
-- **Survey Launch:** [When you'll distribute surveys]
-- **Survey Close:** [Deadline for survey responses]
-- **Interview Period:** [Window for conducting interviews]
-- **Focus Group Dates:** [When focus groups will occur]
-- **Follow-up Period:** [Time for additional questions or clarifications]
-
-### Logistical Planning
-#### Survey Distribution
-- **Distribution Method:** [Email, paper, internal systems]
-- **Reminder Schedule:** [When you'll send follow-up reminders]
-- **Technical Support:** [How you'll help participants with technical issues]
-
-#### Interview Scheduling
-- **Scheduling Method:** [How you'll coordinate interview times]
-- **Location Planning:** [Where interviews will take place]
-- **Equipment Needs:** [Recording equipment, note-taking materials]
-
-## Response Rate Strategy
-
-### Maximizing Participation
-#### Engagement Tactics
-- **Leadership Endorsement:** [Getting visible support from management]
-- **Clear Value Proposition:** [Explaining how participation benefits stakeholders]
-- **Convenient Participation:** [Making it easy to participate]
-- **Multiple Touchpoints:** [Various opportunities to engage]
-
-#### Incentive Strategy
-- **Direct Incentives:** [What you might offer participants]
-- **Indirect Benefits:** [How participation serves stakeholder interests]
-- **Recognition:** [How you might acknowledge participant contributions]
-
-### Minimum Viable Sample
-- **Minimum Response Rate:** [What response rate you need for credible results]
-- **Backup Plan:** [What you'll do if response rates are low]
-- **Alternative Methods:** [Other ways to gather stakeholder input if needed]
-
-## Data Management Plan
-
-### Data Collection Organization
-- **Response Tracking:** [How you'll track who has responded]
-- **Data Storage:** [Where and how you'll store stakeholder responses]
-- **Data Security:** [How you'll protect stakeholder information]
-- **Backup Plan:** [How you'll prevent data loss]
-
-### Analysis Preparation
-- **Coding Strategy:** [How you'll analyze open-ended responses]
-- **Quantitative Analysis:** [How you'll analyze survey data]
-- **Integration Plan:** [How you'll combine different types of stakeholder evidence]
-
----
-INSTRUCTIONS:
-1. Start stakeholder engagement early - it often takes longer than expected
-2. Be respectful of stakeholder time and provide clear value for participation  
-3. Get appropriate permissions before engaging organizational stakeholders
-4. Plan for lower response rates than you hope for
-5. Have multiple methods to reach different types of stakeholders

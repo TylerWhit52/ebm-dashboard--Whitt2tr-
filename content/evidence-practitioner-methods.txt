@@ -2,156 +2,60 @@
 # Document your approach to gathering expert insights and professional experience
 
 ## Practitioner Evidence Goals
-**Primary Goal:** [What practitioner insights do you need about your problem?]
-**Secondary Goal:** [What practitioner insights do you need about potential solutions?]
+**Primary Goal:** Understand how malpractice in sports management, especially financial misguidance and medical neglect, is experienced and perceived by seasoned professionals.
+**Secondary Goal:** Identify practitioner informed strategies that have been effective in preventing or mitigating athlete exploitation and long term harm.
 
 ## Target Practitioners
 
 ### Industry Experts
-**Target Profile:** [What type of professional experience is most relevant?]
-- Years of experience desired: [Range]
-- Industry/sector focus: [Specific industries]
-- Role/position types: [Management levels, functional areas]
-- Company size experience: [Startup, SME, large enterprise]
-- Geographic location: [Local, national, international]
+**Target Profile:** Retired or active professionals with direct experience in sports agency, league governance, athlete development, or medical/legal advisory roles in athletics.
+- Years of experience desired: Years of experience desired: 7–25 years
+- Industry/sector focus: Industry/sector focus: Professional sports (NFL, NBA, etc.), sports law, sports medicine, financial advising for athletes
+- Role/position types: Player agents, league administrators, athlete financial advisors, team physicians, compliance officers
+- Company size experience: SME to major league organizations
+- Geographic location: Primarily U.S.-based, with openness to international comparisons
 
 ### Specific Practitioners Identified
-1. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+1. **Name/Title/Organization:** Joe Linta / NFL Agent / JL Sports
+   - **Relevance:** Represents high-profile athletes and speaks publicly on contract fairness and athlete longevity
+   - **Contact Method:** Interview excerpts and secondary analysis from podcast appearances
 
-2. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+2. **Name/Title/Organization:** Dr. Robert Cantu / Neurosurgeon & CTE Researcher
+   - **Relevance:** Leads medical literature and policy shifts related to sports-related brain trauma
+   - **Contact Method:** Publicly available interviews, white papers, and conference materials
 
-3. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+3. **Name/Title/Organization:** David Cornwell / Sports Attorney
+   - **Relevance:** Represents athletes in legal battles and speaks on institutional negligence
+   - **Contact Method:** Legal publications, op-eds, and lectures
 
-## Acquisition Methods
+### Published Practitioner Sources
+Insights were acquired through analysis of high-quality secondary materials, including in-depth practitioner interviews, long-form industry
+profiles, expert commentary, and panel transcripts. These were accessed via professional news outlets, sports law journals, association websites, and reputable 
+long-form podcasts and reports.
 
-### Expert Interviews
-#### Interview Planning
-- **Target Number:** [How many interviews planned?]
-- **Interview Length:** [Estimated duration]
-- **Interview Method:** [In-person, phone, video, email]
-- **Recording Plan:** [How will you capture responses?]
-
-#### Interview Protocol
-**Opening Questions:**
-- Can you tell me about your experience with [problem area]?
-- How long have you been working in this field/role?
-
-**Problem-Focused Questions:**
-- Have you encountered [your specific problem] in your work?
-- What causes this type of problem in your experience?
-- How common is this problem in organizations you've worked with?
-
-**Solution-Focused Questions:**
-- What approaches have you seen work for this type of problem?
-- What solutions have you tried or observed?
-- What would you recommend based on your experience?
-
-**Implementation Questions:**
-- What challenges should we expect when implementing this type of solution?
-- What would you do differently if you were addressing this problem again?
-- What resources or support are critical for success?
-
-**Closing Questions:**
-- Who else would you recommend I speak with about this?
-- Is there anything important I haven't asked about?
-
-### Professional Networks
-
-#### LinkedIn Outreach
-- **Target Search Terms:** [Keywords for finding relevant professionals]
-- **Connection Strategy:** [How you'll approach potential contacts]
-- **Message Template:** [Professional outreach message]
-
-#### Industry Associations
-- **Relevant Associations:** [Professional organizations in your field]
-- **Contact Strategy:** [How you'll engage with association members]
-- **Events/Forums:** [Industry events where you might connect with experts]
 
 ### Case Study Research
 
 #### Published Case Studies
-- **Target Sources:** [Harvard Business Review, industry publications, consulting reports]
-- **Search Strategy:** [How you'll find relevant case studies]
-- **Documentation Plan:** [How you'll organize case study insights]
+- **Target Sources:** The Athletic, Sports Illustrated, Harvard Business Review (sports editions), LawInSport
+- **Search Strategy:** Case study indexing by topic ("concussion litigation," "athlete bankruptcy prevention," "management malpractice")
+- **Documentation Plan:** Key takeaways were documented in a standardized table format with source URLs and relevance notes
 
 #### Company Examples
-- **Target Companies:** [Organizations known for addressing similar problems]
-- **Information Sources:** [Annual reports, news articles, presentations]
-- **Contact Strategy:** [How you might reach company representatives]
+- **Target Companies:** NFLPA, Rosenhaus Sports, Steinberg Sports, Athlete Recovery Fund
+- **Information Sources:** Annual reports, policy whitepapers, ESPN features, legal proceedings summaries
+- **Contact Strategy:** No direct contact; insights drawn from official publications and vetted journalism
 
 ## Documentation Strategy
 
 ### Interview Documentation
-- **Recording:** [Will you record interviews? If so, how?]
-- **Note-taking:** [Real-time notes plus post-interview summary]
-- **Transcription:** [Full or partial transcription plan]
-- **Analysis:** [How you'll analyze and code responses]
+Not applicable – no original interviews conducted.
 
 ### Case Study Documentation
-- **Template:** [Standardized format for case study summaries]
-- **Key Elements:** [What information you'll capture for each case]
-- **Source Tracking:** [How you'll maintain citation information]
+- **Template:** Summary table with fields for organization, relevance to malpractice problem, practitioner quoted, and mitigation strategy
+- **Key Elements:** Root problem, evidence of impact, solution used, stakeholder affected
+- **Source Tracking:** APA-style citations + source file archive for reproducibility
 
-## Outreach Strategy
-
-### Contact Approach
-**Initial Contact Message Template:**
-[Draft your professional outreach message]
-
-**Follow-up Strategy:**
-[How and when you'll follow up if no initial response]
-
-**Incentives:**
-[What you can offer in return - summary of findings, networking, etc.]
-
-### Timing Plan
-- **Outreach Start Date:** [When you'll begin contacting practitioners]
-- **Interview Window:** [Timeline for conducting interviews]
-- **Follow-up Period:** [Time allowed for additional questions]
-
-## Ethical Considerations
-
-### Informed Consent
-- **Purpose Explanation:** [How you'll explain your research purpose]
-- **Use of Information:** [How you'll use their insights]
-- **Anonymity/Attribution:** [Will you identify them or keep anonymous?]
-- **Approval Process:** [Will they review how you use their input?]
-
-### Professional Courtesy
-- **Time Respect:** [Staying within agreed time limits]
-- **Preparation:** [Being well-prepared for interactions]
-- **Follow-through:** [Sharing results if promised]
-
-## Expected Challenges
-
-### Access Challenges
-[What difficulties might you face reaching practitioners?]
-
-### Response Rate Concerns
-[What if people don't respond to your outreach?]
-
-### Quality Concerns
-[How will you ensure you get valuable insights?]
-
-### Time Constraints
-[How will time limitations affect your approach?]
-
-## Backup Plans
-
-### Alternative Sources
-[What will you do if you can't reach enough practitioners?]
-
-### Modified Approaches
-[How might you adapt your methods if needed?]
-
-### Minimum Viable Evidence
-[What's the minimum practitioner evidence you need?]
 
 ---
 INSTRUCTIONS:
@@ -160,3 +64,24 @@ INSTRUCTIONS:
 3. Prepare thoroughly for interviews to make the most of practitioners' time
 4. Have backup sources in case your primary targets aren't available
 5. Consider offering something valuable in return for their time
+
+### Practitioner Evidence Acquisition Methods (ACQUIRE)
+
+**Requirement: Gather multiple perspectives.**
+*Instructions: Your goal is to understand the problem and potential solutions from the viewpoint of experienced professionals. Document how you identified and gathered insights from a variety of practitioners.*
+
+**Methods Used:**
+*Instructions: Describe the methods you used to collect practitioner evidence. Examples include:*
+- *Informational interviews with experts in the field.*
+- *Analysis of professional case studies or best practice guides.*
+- *Review of articles in reputable trade publications or industry blogs.*
+- *Attending a webinar or conference session on the topic.*
+
+[DOCUMENT THE METHODS YOU USED TO GATHER PRACTITIONER INSIGHTS HERE]
+
+---
+
+**Practitioners Consulted:**
+*Instructions: List the experts, roles, or sources you consulted. Be specific about their expertise and perspective.*
+
+[LIST THE PRACTITIONERS OR SOURCES CONSULTED HERE]

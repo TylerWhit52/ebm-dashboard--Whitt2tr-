@@ -5,21 +5,21 @@
 
 ### Criterion 1: Financial Stability of Athletes (Primary Outcome)
 - **Specific:** Reduction in the percentage of professional athletes declaring bankruptcy within five years of retirement.
-- **Measurable:** Target a 25% decrease in bankruptcy filings compared to the current baseline rate.
+- **Measurable:** Aim for a 25% reduction in the proportion of professional athletes who experience severe financial distress or bankruptcy within 5 years. Baseline: We will determine the current percentage of retiring athletes facing financial hardship (e.g. using league data that historically around 60% of retired players encounter financial stress) as the starting point, against which the 25% drop will be measured.
 - **Achievable:** Achievable through financial literacy programs, independent audits of managers, and stronger union oversight.
 - **Relevant:** Directly addresses the core problem of financial harm caused by management malpractice.
 - **Time-bound:** Baseline data collected within Year 1; achieve reduction within 5 years of program launch.
 
 ### Criterion 2: Health Management and Medical Oversight (Secondary Outcome)
 - **Specific:** Decrease in the number of mismanaged or underreported injuries among professional athletes.
-- **Measurable:** Target a 40% reduction in verified cases of medical malpractice or delayed treatment reported to unions or league compliance bodies.
+- **Measurable:** Achieve a 40% decrease in documented cases of injury mismanagement (such as concussion protocol violations or premature return-to-play decisions) over the next 3 years. Baseline: We will collaborate with medical committees to document the number of such malpractice incidents in recent seasons (using the average annual cases from the past five years as a baseline). This
 - **Achievable:** Feasible with mandatory injury reporting protocols and independent medical reviews.
 - **Relevant:** Addresses the long-term health consequences of management malpractice.
 - **Time-bound:** Baseline metrics collected in Year 1; measurable improvements by Year 3.
 
 ### Criterion 3: Athlete Satisfaction with Management Practices (Additional Outcome)
 - **Specific:** Increase in average athlete satisfaction score with management practices.
-- **Measurable:** Achieve a mean satisfaction rating of ≥4.5 out of 5 (from current baseline of ~3.5).
+- **Measurable:** Attain an average ≥ 4.5 out of 5 satisfaction score among athletes regarding management practices within 3 years. Baseline: A comprehensive athlete survey will be conducted upfront (across teams, sports, and career stages) to establish the current average satisfaction level. That initial score — for example, if the baseline survey yields a 3.8/5 — will serve as the reference point to track progress toward the 4.5/5 target.
 - **Achievable:** Realistic with enhanced transparency, independent advisory services, and new grievance channels.
 - **Relevant:** Captures how reforms are perceived by athletes directly.
 - **Time-bound:** Collect baseline in Year 1; reach target within 3 years.

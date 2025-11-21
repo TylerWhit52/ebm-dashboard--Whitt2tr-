@@ -2,166 +2,173 @@
 # Document your approach to gathering internal organizational evidence
 
 ## Internal Evidence Goals
-**Primary Goal:** [What internal data do you need about your problem?]
-**Secondary Goal:** [What internal data do you need about solution feasibility?]
+**Primary Goal:** Measure internal risk factors and outcomes such as financial misconduct (e.g. misallocated investments, fraud, bankruptcies) and improper health management (e.g. injury re-injury rates, delayed treatments).
+**Secondary Goal:** Determine internal resource and capability availability for implementing preventative solutions to malpractice.
 
 ## Available Data Sources
 
 ### Performance Metrics/KPIs
-- **Financial Data:** [Revenue, costs, profitability metrics]
-- **Operational Data:** [Efficiency, productivity, quality metrics]
-- **Human Resources Data:** [Turnover, satisfaction, performance metrics]
-- **Customer Data:** [Satisfaction, retention, acquisition metrics]
-- **Other Relevant Metrics:** [Industry-specific measurements]
+- **Financial Data:** Athlete bankruptcy rates, emergency loan requests, average debt levels
+- **Operational Data:** Incident response times, athlete case resolution rates
+- **Human Resources Data:** Talent retention, turnover, athlete satisfaction survey scores
+- **Customer Data:** Athlete experience ratings, feedback on financial/medical support
+- **Other Relevant Metrics:** Health outcomes, injury recurrence, financial hardship claim rates
 
 ### Internal Systems
-- **CRM Systems:** [Customer relationship data]
-- **ERP Systems:** [Enterprise resource planning data]
-- **HR Information Systems:** [Employee data and metrics]
-- **Financial Systems:** [Accounting and financial data]
-- **Operations Systems:** [Production, service delivery data]
+- **CRM Systems:** N/A for internal athlete data context
+- **ERP Systems:** If applicable, manage scheduling and performance tracking
+- **HR Information Systems:** Salary, bonuses, medical exemptions, post-career benefits
+- **Financial Systems:** Contract values, disbursement records, agent fee tracking
+- **Operations Systems:** Injury reporting, rehab scheduling, service provision metrics
 
 ### Reports and Documentation
-- **Regular Reports:** [Monthly, quarterly, annual reports]
-- **Survey Results:** [Employee, customer, stakeholder surveys]
-- **Audit Results:** [Internal and external audit findings]
-- **Assessment Reports:** [Performance reviews, process evaluations]
-- **Historical Studies:** [Previous internal research or analysis]
+- **Regular Reports:** Quarterly reports from medical/legal/finance departments
+- **Survey Results:** Athlete post-retirement outcomes, satisfaction scores
+- **Audit Results:** Internal malpractice investigations, compliance breaches
+- **Assessment Reports:** Post-season physical reviews, contract fulfillment
+- **Historical Studies:** Internal cases of mismanagement linked to financial loss/injury
 
 ## Data Collection Plan
 
 ### Quantitative Data Collection
 #### Metrics to Collect
-[List specific metrics relevant to your problem and solution]
 
 **Problem-Related Metrics:**
-- Metric 1: [Name] - Current value: [Number] - Data source: [Where to find it]
-- Metric 2: [Name] - Current value: [Number] - Data source: [Where to find it]
-- Metric 3: [Name] - Current value: [Number] - Data source: [Where to find it]
+- Metric 1: Bankruptcy Rate - Current value: TBD - Data source: HR/Union reports
+- Metric 2: Injury Recurrence - Current value: TBD - Data source: Medical systems
+- Metric 3: Grievance Reports - Current value: TBD - Data source: Legal/Compliance logs
 
 **Solution-Related Metrics:**
-- Metric 1: [Name] - Baseline: [Number] - Data source: [Where to find it]
-- Metric 2: [Name] - Baseline: [Number] - Data source: [Where to find it]
-- Metric 3: [Name] - Baseline: [Number] - Data source: [Where to find it]
+- Metric 1: Financial Literacy Program Reach - Baseline: TBD - Data source: Internal training records
+- Metric 2: Risk Protocol Compliance Rate - Baseline: TBD - Data source: Medical logs
+- Metric 3: Support Satisfaction Score - Baseline: TBD - Data source: Athlete surveys
 
 #### Time Period Analysis
-- **Historical Data Range:** [How far back will you look?]
-- **Trend Analysis Period:** [What timeframe for trend identification?]
-- **Seasonal Considerations:** [Any seasonal patterns to account for?]
-- **Baseline Period:** [What period represents "normal" operations?]
+- **Historical Data Range:** Past 5–10 years
+- **Trend Analysis Period:** 3-year rolling average comparisons
+- **Seasonal Considerations:** Injury trends by sport season
+- **Baseline Period:** 2015–2020 for pre-policy norms
 
 ### Qualitative Data Collection
 #### Internal Documents Review
-- **Policy Documents:** [Relevant policies and procedures]
-- **Meeting Minutes:** [Records of relevant discussions]
-- **Communication Records:** [Emails, memos, announcements]
-- **Project Reports:** [Previous initiative outcomes]
+- **Policy Documents:** Medical protocol, financial counseling mandates
+- **Meeting Minutes:** Athlete council meetings, compliance briefings
+- **Communication Records:** Complaint email chains, feedback memos
+- **Project Reports:** Athlete safety and finance initiative results
 
 #### Observational Data
-- **Process Observations:** [What processes can you observe?]
-- **Workflow Analysis:** [How work actually gets done]
-- **Communication Patterns:** [How information flows]
-- **Cultural Observations:** [Organizational behavior patterns]
+- **Process Observations:** Injury handling and post-game follow-up
+- **Workflow Analysis:** Case escalation timing
+- **Communication Patterns:** Channels used for athlete alerts
+- **Cultural Observations:** Trust themes in athlete-manager relationships
 
 ## Access and Permissions
 
 ### Data Access Strategy
 #### Required Permissions
-- **Data Custodians:** [Who controls access to different data sources?]
-- **Approval Process:** [What approvals are needed?]
-- **Privacy Considerations:** [What privacy restrictions apply?]
-- **Confidentiality Requirements:** [What confidentiality agreements needed?]
+- **Data Custodians:** Finance lead, medical director, compliance officer
+- **Approval Process:** Written requests, NDA amendments, manager sign-off
+- **Privacy Considerations:** HIPAA compliance, union protections
+- **Confidentiality Requirements:** Aggregated reporting only, anonymized identifiers
 
 #### Contact Plan
-1. **Primary Contact:** [Name, role, contact information]
-   - **Data Sources:** [What data they control]
-   - **Approach:** [How you'll request access]
+1. **Primary Contact:** Medical Director
+   - **Data Sources:** Injury logs, protocol breaches
+   - **Approach:** Formal request + HIPAA compliance agreement
 
-2. **Secondary Contact:** [Name, role, contact information]
-   - **Data Sources:** [What data they control]
-   - **Approach:** [How you'll request access]
+2. **Secondary Contact:** Finance Director
+   - **Data Sources:** Compensation trends, hardship claim data
+   - **Approach:** Request + aggregated extract approval
 
 ### Ethical Considerations
-- **Employee Privacy:** [How will you protect individual privacy?]
-- **Data Security:** [How will you secure sensitive data?]
-- **Use Limitations:** [How will you limit use of internal data?]
-- **Reporting Boundaries:** [What can/cannot be shared externally?]
+- **Employee Privacy:** Anonymized identifiers
+- **Data Security:** Secure encrypted file storage
+- **Use Limitations:** Project-only access, no external redistribution
+- **Reporting Boundaries:** Summary statistics only, case descriptions anonymized
 
 ## Data Analysis Plan
 
 ### Baseline Establishment
 #### Pre-Problem Baselines
-[What did performance look like before the problem emerged?]
+Historical data from before policy implementation (e.g. pre-2018)
 
 #### Normal Operating Ranges
-[What constitutes normal vs. abnormal performance?]
+Expected ranges for re-injury, debt levels, based on athlete norms
 
 #### Benchmark Comparisons
-[How does performance compare to industry standards or internal targets?]
+Compare to league-wide averages (e.g. NFL/NBA post-retirement stats)
 
 ### Problem Evidence Analysis
 #### Problem Indicators
-[What data would confirm the problem exists?]
+Bankruptcy, chronic injury, grievance counts
 
 #### Problem Severity Measurement
-[How will you quantify the severity of the problem?]
+% affected, average financial loss, years of injury-related performance loss
 
 #### Root Cause Investigation
-[What data analysis might reveal underlying causes?]
+Cross-reference poor outcomes with internal management data
 
 ### Solution Feasibility Analysis
 #### Resource Assessment
-[What internal data shows resource availability for solutions?]
+Training budgets, education staffing, athlete engagement resources
 
 #### Capability Assessment
-[What data shows organizational capability for change?]
+Past implementation success rates, technology support
 
 #### Risk Assessment
-[What internal data reveals potential implementation risks?]
+Legal exposure, athlete non-compliance, data incompleteness
 
 ## Documentation Strategy
 
 ### Data Collection Log
-[How will you track what data you collect and when?]
+Excel sheet tracking source, timeframe, contact, notes
 
 ### Analysis Documentation
-[How will you document your analysis process and findings?]
+Method memos, versioned scripts (Excel or Python)
 
 ### Quality Assurance
-[How will you ensure data accuracy and completeness?]
+Two-stage review: completeness + validity
 
 ### Version Control
-[How will you manage different versions of data and analysis?]
+Change-tracked reports and spreadsheets
 
 ## Expected Challenges
 
 ### Data Availability
-[What data might not be available or accessible?]
+Missing older records, fragmented tracking
 
 ### Data Quality Issues
-[What data quality problems might you encounter?]
+Inconsistent data labels, duplicate entries
 
 ### Access Barriers
-[What obstacles might prevent data access?]
+Slow approvals, sensitive data restrictions
 
 ### Time Constraints
-[How might time limitations affect data collection?]
+Delays due to privacy or holiday scheduling
 
 ## Backup Plans
 
 ### Alternative Data Sources
-[What alternatives exist if primary sources aren't available?]
+Union reports, insurance claim summaries
 
 ### Proxy Measures
-[What substitute metrics could you use if ideal data isn't available?]
+Surveys as stand-in for unavailable financial docs
 
 ### Simplified Analysis
-[What's the minimum viable organizational evidence you need?]
+Case study comparison + literature benchmarks
 
 ---
-INSTRUCTIONS:
-1. Start with readily available data before pursuing hard-to-access information
-2. Be respectful of privacy and confidentiality when requesting internal data
-3. Focus on data most relevant to your specific problem and solution
-4. Document your data sources and analysis methods clearly
-5. Have backup plans for inaccessible data
+
+### Organizational Evidence Acquisition Methods (ACQUIRE)
+
+**Data Sources Identified:**
+- Financial reports (pay, benefits, bonuses, grievance payments)
+- Medical records (injury, treatment, clearances)
+- Legal/compliance logs (malpractice reports)
+- Athlete surveys
+- Internal project memos (training, retirement support)
+
+---
+
+**Data Access and Collection Process:**
+Requests will be submitted to finance and medical departments with justification. Some data will be pulled from dashboards, while others will be structured export requests. Interview requests will also go through HR and ethics approval.
