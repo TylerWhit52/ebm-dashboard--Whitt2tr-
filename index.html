@@ -223,6 +223,45 @@
             cursor: pointer;
         }
 
+        /* === NESTED ACCORDION FOR PARSED CONTENT === */
+        .nested-accordion-item {
+            border-top: 1px solid #dee2e6;
+            margin-top: 15px;
+            padding-top: 15px;
+        }
+        .nested-accordion-header {
+            background: #f1f3f5;
+            padding: 10px 15px;
+            cursor: pointer;
+            font-weight: bold;
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .nested-accordion-header:hover {
+            background: #e9ecef;
+        }
+        .nested-accordion-header::after {
+            content: '▼';
+            font-size: 0.7em;
+        }
+        .nested-accordion-header.active::after {
+            transform: rotate(180deg);
+        }
+        .nested-accordion-content {
+            display: none;
+            padding: 15px;
+            border: 1px solid #f1f3f5;
+            border-top: none;
+            border-radius: 0 0 5px 5px;
+        }
+        .nested-accordion-content pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            font-family: inherit;
+        }
+
         .edit-notice {
             background: #fff3cd;
             border: 1px solid #ffeaa7;
@@ -739,28 +778,67 @@
             };
 
             for (const [filename, elementId] of Object.entries(filesToLoad)) {
+                const contentContainer = document.getElementById(elementId);
+                if (!contentContainer) continue;
+
                 try {
                     const response = await fetch(`content/${filename}`);
                     if (!response.ok) {
                         throw new Error(`HTTP error! status: ${response.status}`);
                     }
                     const text = await response.text();
-                    const element = document.getElementById(elementId);
-                    if (element) {
-                        element.textContent = text;
+                    
+                    // Clear previous content and parse the new text
+                    contentContainer.innerHTML = ''; 
+                    const sections = text.split('---').filter(s => s.trim() !== '');
+
+                    if (sections.length > 1) {
+                        // If file is sectioned with "---", create nested accordions
+                        sections.forEach((section, index) => {
+                            const sectionTrimmed = section.trim();
+                            const firstLine = sectionTrimmed.substring(0, sectionTrimmed.indexOf('\n')).trim() || "Section";
+                            const sectionTitle = firstLine.replace(/#/g, '').trim();
+                            const restOfSection = sectionTrimmed.substring(sectionTrimmed.indexOf('\n') + 1).trim();
+
+                            const item = document.createElement('div');
+                            item.className = 'nested-accordion-item';
+
+                            const header = document.createElement('div');
+                            header.className = 'nested-accordion-header';
+                            header.textContent = sectionTitle;
+
+                            const content = document.createElement('div');
+                            content.className = 'nested-accordion-content';
+                            
+                            const pre = document.createElement('pre');
+                            pre.textContent = restOfSection;
+                            content.appendChild(pre);
+
+                            item.appendChild(header);
+                            item.appendChild(content);
+                            contentContainer.appendChild(item);
+
+                            header.addEventListener('click', () => {
+                                header.classList.toggle('active');
+                                content.style.display = content.style.display === 'block' ? 'none' : 'block';
+                            });
+                        });
+                    } else {
+                        // Otherwise, just display the whole content in a single pre tag
+                        const pre = document.createElement('pre');
+                        pre.textContent = text;
+                        contentContainer.appendChild(pre);
                     }
+
                 } catch (error) {
                     console.error(`Error loading ${filename}:`, error);
-                    const element = document.getElementById(elementId);
-                    if (element) {
-                        element.textContent = `[Error loading content for ${filename}. Please ensure the file exists and the page is served via a web server.]`;
-                    }
+                    contentContainer.innerHTML = `<pre>[Error loading content for ${filename}. Please ensure the file exists and the page is served via a web server.]</pre>`;
                 }
             }
         }
 
         // Function to simulate opening content files in VS Code
-        async function openContentFile(filename) {
+        function openContentFile(filename) {
             // The 'open in VS Code' functionality is simulated here for a browser environment.
             // In a real VS Code extension, you would use the API to open the file.
             const url = `content/${filename}`;
@@ -814,7 +892,7 @@
             console.info('Initializing dashboard, loading content files...');
             loadContentFiles();
 
-            // Accordion functionality
+            // Accordion functionality for main content files
             document.querySelectorAll('.accordion-header').forEach(header => {
                 header.addEventListener('click', () => {
                     const content = header.nextElementSibling;
