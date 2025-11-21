@@ -401,8 +401,8 @@
                 <div><strong>Student:</strong> [Tyler Whittle]</div>
                 <div><strong>Problem Focus:</strong> [To what extent does malpractice in sports management impact the financial stability and long-term health of professional athletes?
 ]</div>
-                <div><strong>Repository:</strong> <a href="#" style="color: #74b9ff;">[ https://github.com/TylerWhit52/ebm-dashboard--Whitt2tr-/commit/e5ac0af9e904ee481a1200e94d7fb1467479f0e5]</a></div>
-                <div><strong>Last Updated:</strong> [10/05/25]</div>
+                <div><strong>Repository:</strong> <a href="https://github.com/TylerWhit52/ebm-dashboard--Whitt2tr-" style="color: #74b9ff;">[https://github.com/TylerWhit52/ebm-dashboard--Whitt2tr-]</a></div>
+                <div><strong>Last Updated:</strong> [11/21/25]</div>
             </div>
         </div>
 
@@ -455,7 +455,7 @@
                         </div>
                         <div class="accordion-content">
                             <div class="edit-notice" onclick="openContentFile('ask-problem-definition.txt')">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="problem-definition-content">[This content will load from your .txt file]</pre>
+                            <pre id="ask-problem-definition-content">[This content will load from your .txt file]</pre>
                         </div>
                     </div>
 
@@ -465,8 +465,7 @@
                         </div>
                         <div class="accordion-content">
                             <div class="edit-notice" onclick="openContentFile('ask-stakeholder-analysis.txt')">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="stakeholder-analysis-content">[This content will load from your .txt file]</pre>
-                            <div class="file-status" id="stakeholder-analysis-content-status" style="font-size:0.85em; color:#555; margin-top:8px;">Status: not loaded</div>
+                            <pre id="ask-stakeholder-analysis-content">[This content will load from your .txt file]</pre>
                         </div>
                     </div>
 
@@ -476,19 +475,8 @@
                         </div>
                         <div class="accordion-content">
                             <div class="edit-notice" onclick="openContentFile('ask-success-criteria.txt')">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="success-criteria-content">[This content will load from your .txt file]</pre>
-                            <div class="file-status" id="success-criteria-content-status" style="font-size:0.85em; color:#555; margin-top:8px;">Status: not loaded</div>
+                            <pre id="ask-success-criteria-content">[This content will load from your .txt file]</pre>
                         </div>
-                    </div>
-
-                    <div style="margin-top:10px;">
-                        <button id="reload-content-btn" class="btn">🔄 Reload content</button>
-                        <span id="reload-content-note" style="font-size:0.9em; color:#666; margin-left:10px;">(Click to refresh all previews)</span>
-                        <div id="reload-status" style="font-size:0.85em; color:#444; margin-top:8px;"></div>
-                    </div>
-                    <div id="debug-panel" style="margin-top:12px; background:#f6f8fa; border:1px dashed #ccc; padding:10px; border-radius:6px; font-size:0.9em; color:#333; display:none;">
-                        <strong>Debug: content fetch results</strong>
-                        <div id="debug-entries" style="margin-top:8px;"></div>
                     </div>
 
                     <div class="flowchart-step">
@@ -534,22 +522,28 @@
                     <div class="evidence-section">
                         <h3 class="evidence-type scientific">🔬 Scientific Evidence</h3>
                         
-                        <div class="content-file-preview" onclick="openContentFile('evidence-scientific-methods.txt')">
-                            <h4>📝 content/evidence-scientific-methods.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="evidence-scientific-methods-content">[Document your search strategy, databases used, keywords, and selection criteria]</pre>
+                        <div class="accordion-item">
+                            <div class="accordion-header"><h4>📝 content/evidence-scientific-methods.txt</h4></div>
+                            <div class="accordion-content">
+                                <div class="edit-notice" onclick="openContentFile('evidence-scientific-methods.txt')">🖊️ Click to edit this file in VS Code</div>
+                                <pre id="evidence-scientific-methods-content">[Content loading...]</pre>
+                            </div>
                         </div>
 
-                        <div class="content-file-preview" onclick="openContentFile('evidence-scientific-sources.txt')">
-                            <h4>📝 content/evidence-scientific-sources.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="evidence-scientific-sources-content">[List and summarize the research studies, meta-analyses, and systematic reviews you found]</pre>
+                        <div class="accordion-item">
+                            <div class="accordion-header"><h4>📝 content/evidence-scientific-sources.txt</h4></div>
+                            <div class="accordion-content">
+                                <div class="edit-notice" onclick="openContentFile('evidence-scientific-sources.txt')">🖊️ Click to edit this file in VS Code</div>
+                                <pre id="evidence-scientific-sources-content">[Content loading...]</pre>
+                            </div>
                         </div>
 
-                        <div class="content-file-preview" onclick="openContentFile('evidence-scientific-appraisal.txt')">
-                            <h4>📝 content/evidence-scientific-appraisal.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="evidence-scientific-appraisal-content">[Evaluate the quality, reliability, and relevance of your scientific evidence]</pre>
+                        <div class="accordion-item">
+                            <div class="accordion-header"><h4>📝 content/evidence-scientific-appraisal.txt</h4></div>
+                            <div class="accordion-content">
+                                <div class="edit-notice" onclick="openContentFile('evidence-scientific-appraisal.txt')">🖊️ Click to edit this file in VS Code</div>
+                                <pre id="evidence-scientific-appraisal-content">[Content loading...]</pre>
+                            </div>
                         </div>
                     </div>
 
@@ -557,22 +551,28 @@
                     <div class="evidence-section">
                         <h3 class="evidence-type practitioner">👔 Practitioner Evidence</h3>
                         
-                        <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-methods.txt')">
-                            <h4>📝 content/evidence-practitioner-methods.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="evidence-practitioner-methods-content">[Document how you collected practitioner insights, interviews, case studies]</pre>
+                        <div class="accordion-item">
+                            <div class="accordion-header"><h4>📝 content/evidence-practitioner-methods.txt</h4></div>
+                            <div class="accordion-content">
+                                <div class="edit-notice" onclick="openContentFile('evidence-practitioner-methods.txt')">🖊️ Click to edit this file in VS Code</div>
+                                <pre id="evidence-practitioner-methods-content">[Content loading...]</pre>
+                            </div>
                         </div>
 
-                        <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-sources.txt')">
-                            <h4>📝 content/evidence-practitioner-sources.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="evidence-practitioner-sources-content">[Summarize expert interviews, case studies, and professional experience]</pre>
+                        <div class="accordion-item">
+                            <div class="accordion-header"><h4>📝 content/evidence-practitioner-sources.txt</h4></div>
+                            <div class="accordion-content">
+                                <div class="edit-notice" onclick="openContentFile('evidence-practitioner-sources.txt')">🖊️ Click to edit this file in VS Code</div>
+                                <pre id="evidence-practitioner-sources-content">[Content loading...]</pre>
+                            </div>
                         </div>
 
-                        <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-appraisal.txt')">
-                            <h4>📝 content/evidence-practitioner-appraisal.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="evidence-practitioner-appraisal-content">[Assess the credibility and relevance of practitioner evidence]</pre>
+                        <div class="accordion-item">
+                            <div class="accordion-header"><h4>📝 content/evidence-practitioner-appraisal.txt</h4></div>
+                            <div class="accordion-content">
+                                <div class="edit-notice" onclick="openContentFile('evidence-practitioner-appraisal.txt')">🖊️ Click to edit this file in VS Code</div>
+                                <pre id="evidence-practitioner-appraisal-content">[Content loading...]</pre>
+                            </div>
                         </div>
                     </div>
 
@@ -580,22 +580,28 @@
                     <div class="evidence-section">
                         <h3 class="evidence-type organizational">🏢 Organizational Evidence</h3>
                         
-                        <div class="content-file-preview" onclick="openContentFile('evidence-organizational-methods.txt')">
-                            <h4>📝 content/evidence-organizational-methods.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="evidence-organizational-methods-content">[Document internal data collection methods and sources]</pre>
+                        <div class="accordion-item">
+                            <div class="accordion-header"><h4>📝 content/evidence-organizational-methods.txt</h4></div>
+                            <div class="accordion-content">
+                                <div class="edit-notice" onclick="openContentFile('evidence-organizational-methods.txt')">🖊️ Click to edit this file in VS Code</div>
+                                <pre id="evidence-organizational-methods-content">[Content loading...]</pre>
+                            </div>
                         </div>
 
-                        <div class="content-file-preview" onclick="openContentFile('evidence-organizational-sources.txt')">
-                            <h4>📝 content/evidence-organizational-sources.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="evidence-organizational-sources-content">[Present internal data, KPIs, reports, and organizational studies]</pre>
+                        <div class="accordion-item">
+                            <div class="accordion-header"><h4>📝 content/evidence-organizational-sources.txt</h4></div>
+                            <div class="accordion-content">
+                                <div class="edit-notice" onclick="openContentFile('evidence-organizational-sources.txt')">🖊️ Click to edit this file in VS Code</div>
+                                <pre id="evidence-organizational-sources-content">[Content loading...]</pre>
+                            </div>
                         </div>
 
-                        <div class="content-file-preview" onclick="openContentFile('evidence-organizational-appraisal.txt')">
-                            <h4>📝 content/evidence-organizational-appraisal.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="evidence-organizational-appraisal-content">[Evaluate the quality and limitations of organizational data]</pre>
+                        <div class="accordion-item">
+                            <div class="accordion-header"><h4>📝 content/evidence-organizational-appraisal.txt</h4></div>
+                            <div class="accordion-content">
+                                <div class="edit-notice" onclick="openContentFile('evidence-organizational-appraisal.txt')">🖊️ Click to edit this file in VS Code</div>
+                                <pre id="evidence-organizational-appraisal-content">[Content loading...]</pre>
+                            </div>
                         </div>
                     </div>
 
@@ -603,22 +609,28 @@
                     <div class="evidence-section">
                         <h3 class="evidence-type stakeholder">👥 Stakeholder Evidence</h3>
                         
-                        <div class="content-file-preview" onclick="openContentFile('evidence-stakeholder-methods.txt')">
-                            <h4>📝 content/evidence-stakeholder-methods.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="evidence-stakeholder-methods-content">[Document stakeholder engagement methods, surveys, interviews]</pre>
+                        <div class="accordion-item">
+                            <div class="accordion-header"><h4>📝 content/evidence-stakeholder-methods.txt</h4></div>
+                            <div class="accordion-content">
+                                <div class="edit-notice" onclick="openContentFile('evidence-stakeholder-methods.txt')">🖊️ Click to edit this file in VS Code</div>
+                                <pre id="evidence-stakeholder-methods-content">[Content loading...]</pre>
+                            </div>
                         </div>
 
-                        <div class="content-file-preview" onclick="openContentFile('evidence-stakeholder-sources.txt')">
-                            <h4>📝 content/evidence-stakeholder-sources.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="evidence-stakeholder-sources-content">[Summarize stakeholder feedback, surveys, and input]</pre>
+                        <div class="accordion-item">
+                            <div class="accordion-header"><h4>📝 content/evidence-stakeholder-sources.txt</h4></div>
+                            <div class="accordion-content">
+                                <div class="edit-notice" onclick="openContentFile('evidence-stakeholder-sources.txt')">🖊️ Click to edit this file in VS Code</div>
+                                <pre id="evidence-stakeholder-sources-content">[Content loading...]</pre>
+                            </div>
                         </div>
 
-                        <div class="content-file-preview" onclick="openContentFile('evidence-stakeholder-appraisal.txt')">
-                            <h4>📝 content/evidence-stakeholder-appraisal.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                            <pre id="evidence-stakeholder-appraisal-content">[Assess the representativeness and reliability of stakeholder evidence]</pre>
+                        <div class="accordion-item">
+                            <div class="accordion-header"><h4>📝 content/evidence-stakeholder-appraisal.txt</h4></div>
+                            <div class="accordion-content">
+                                <div class="edit-notice" onclick="openContentFile('evidence-stakeholder-appraisal.txt')">🖊️ Click to edit this file in VS Code</div>
+                                <pre id="evidence-stakeholder-appraisal-content">[Content loading...]</pre>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -638,13 +650,12 @@
                         </ul>
                     </div>
 
-                    <div class="content-file-preview" onclick="openContentFile('synthesis-integration.txt')">
-                        <h4>📝 content/synthesis-integration.txt</h4>
-                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                        <pre id="evidence-synthesis-content">[Synthesize evidence from all four sources to reach evidence-based conclusions]
-
-Document areas of agreement, disagreement, and evidence quality.
-Weight the evidence and form recommendations.</pre>
+                    <div class="accordion-item">
+                        <div class="accordion-header"><h4>📝 content/synthesis-integration.txt</h4></div>
+                        <div class="accordion-content">
+                            <div class="edit-notice" onclick="openContentFile('synthesis-integration.txt')">🖊️ Click to edit this file in VS Code</div>
+                            <pre id="synthesis-integration-content">[Synthesize evidence from all four sources to reach evidence-based conclusions]</pre>
+                        </div>
                     </div>
                 </div>
 
@@ -653,10 +664,12 @@ Weight the evidence and form recommendations.</pre>
                     <h2>🚀 Application</h2>
                     <p><strong>Implementation Planning:</strong> Put the evidence-based solution into practice.</p>
 
-                    <div class="content-file-preview" onclick="openContentFile('application-implementation.txt')">
-                        <h4>📝 content/application-implementation.txt</h4>
-                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                        <pre id="application-implementation-content">[Create detailed implementation plan with timeline, resources, and stakeholder communication]</pre>
+                    <div class="accordion-item">
+                        <div class="accordion-header"><h4>📝 content/application-implementation.txt</h4></div>
+                        <div class="accordion-content">
+                            <div class="edit-notice" onclick="openContentFile('application-implementation.txt')">🖊️ Click to edit this file in VS Code</div>
+                            <pre id="application-implementation-content">[Create detailed implementation plan with timeline, resources, and stakeholder communication]</pre>
+                        </div>
                     </div>
                 </div>
 
@@ -676,10 +689,12 @@ Weight the evidence and form recommendations.</pre>
                         </ul>
                     </div>
 
-                    <div class="content-file-preview" onclick="openContentFile('assessment-monitoring.txt')">
-                        <h4>📝 content/assessment-monitoring.txt</h4>
-                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
-                        <pre id="assessment-monitoring-content">[Evaluate the effectiveness of your EBM process and solution]</pre>
+                    <div class="accordion-item">
+                        <div class="accordion-header"><h4>📝 content/assessment-monitoring.txt</h4></div>
+                        <div class="accordion-content">
+                            <div class="edit-notice" onclick="openContentFile('assessment-monitoring.txt')">🖊️ Click to edit this file in VS Code</div>
+                            <pre id="assessment-monitoring-content">[Evaluate the effectiveness of your EBM process and solution]</pre>
+                        </div>
                     </div>
 
                     <div style="text-align: center; margin-top: 30px;">
@@ -701,12 +716,11 @@ Weight the evidence and form recommendations.</pre>
         
         // Content file loading functionality
         async function loadContentFiles() {
-            try {
-                // Map of filename -> element ID
-                const files = {
-                'ask-problem-definition.txt': 'problem-definition-content',
-                'ask-stakeholder-analysis.txt': 'stakeholder-analysis-content',
-                'ask-success-criteria.txt': 'success-criteria-content',
+            // Map of filename -> element ID
+            const filesToLoad = {
+                'ask-problem-definition.txt': 'ask-problem-definition-content',
+                'ask-stakeholder-analysis.txt': 'ask-stakeholder-analysis-content',
+                'ask-success-criteria.txt': 'ask-success-criteria-content',
                 'evidence-scientific-methods.txt': 'evidence-scientific-methods-content',
                 'evidence-scientific-sources.txt': 'evidence-scientific-sources-content',
                 'evidence-scientific-appraisal.txt': 'evidence-scientific-appraisal-content',
@@ -719,66 +733,33 @@ Weight the evidence and form recommendations.</pre>
                 'evidence-stakeholder-methods.txt': 'evidence-stakeholder-methods-content',
                 'evidence-stakeholder-sources.txt': 'evidence-stakeholder-sources-content',
                 'evidence-stakeholder-appraisal.txt': 'evidence-stakeholder-appraisal-content',
-                'synthesis-integration.txt': 'evidence-synthesis-content',
+                'synthesis-integration.txt': 'synthesis-integration-content',
                 'application-implementation.txt': 'application-implementation-content',
                 'assessment-monitoring.txt': 'assessment-monitoring-content'
             };
-                // Initialize status indicators (if present)
-                document.querySelectorAll('.file-status').forEach(s => s.textContent = 'Loading...');
-                // Show debug panel while fetching
-                const debugPanel = document.getElementById('debug-panel');
-                const debugEntries = document.getElementById('debug-entries');
-                if (debugPanel && debugEntries) { debugPanel.style.display = 'block'; debugEntries.innerHTML = ''; }
 
-                // Try to fetch each file and place its content into the matching <pre>
-                for (const [filename, elementId] of Object.entries(files)) {
-                    let fetchUrl = '';
-                    try {
-                        fetchUrl = new URL(`content/${filename}`, window.location.href).href;
-                        console.debug('Fetching', fetchUrl);
-                        const res = await fetch(fetchUrl);
-                        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-                        const text = await res.text();
-
-                        if (elementId) {
-                            const el = document.getElementById(elementId);
-                            if (el) el.textContent = text;
-                        }
-
-                        // Update any status element that matches this file
-                        const statusEl = document.getElementById(`${elementId}-status`);
-                        if (statusEl) statusEl.textContent = `Loaded ${filename} — ${new Date().toLocaleString()}`;
-                        if (debugEntries) {
-                            const div = document.createElement('div');
-                            div.textContent = `${filename}: OK (${text.length} chars)`;
-                            debugEntries.appendChild(div);
-                        }
-                    } catch (err) {
-                        // Log to console for debugging
-                        console.warn(`Could not load content/${filename}:`, err.message);
-
-                        if (elementId) {
-                            const el = document.getElementById(elementId);
-                            if (el) el.textContent = `[Could not load content/${filename} — make sure you are serving the site from a local web server]`;
-                        }
-
-                        const statusEl = document.getElementById(`${elementId}-status`);
-                        if (statusEl) statusEl.textContent = `Failed to load ${filename} — ${new Date().toLocaleString()}`;
-                        if (debugEntries) {
-                            const div = document.createElement('div');
-                            div.textContent = `${filename}: ERROR (${err.toString()})`;
-                            div.style.color = 'crimson';
-                            debugEntries.appendChild(div);
-                        }
+            for (const [filename, elementId] of Object.entries(filesToLoad)) {
+                try {
+                    const response = await fetch(`content/${filename}`);
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    const text = await response.text();
+                    const element = document.getElementById(elementId);
+                    if (element) {
+                        element.textContent = text;
+                    }
+                } catch (error) {
+                    console.error(`Error loading ${filename}:`, error);
+                    const element = document.getElementById(elementId);
+                    if (element) {
+                        element.textContent = `[Error loading content for ${filename}. Please ensure the file exists and the page is served via a web server.]`;
                     }
                 }
-            } catch (outerErr) {
-                console.error('loadContentFiles error:', outerErr);
             }
         }
 
-        // Function to open a content file in a new tab if it can be fetched,
-        // otherwise fall back to an instructional alert.
+        // Function to simulate opening content files in VS Code
         async function openContentFile(filename) {
             // The 'open in VS Code' functionality is simulated here for a browser environment.
             // In a real VS Code extension, you would use the API to open the file.
@@ -833,19 +814,8 @@ Weight the evidence and form recommendations.</pre>
             console.info('Initializing dashboard, loading content files...');
             loadContentFiles();
 
-            // Reload button functionality
-            const reloadBtn = document.getElementById('reload-content-btn');
-            if (reloadBtn) {
-                reloadBtn.addEventListener('click', function() {
-                    const statusDiv = document.getElementById('reload-status');
-                    if(statusDiv) statusDiv.textContent = 'Reloading...';
-                    loadContentFiles();
-                });
-            }
-
             // Accordion functionality
-            const accordionHeaders = document.querySelectorAll('.accordion-header');
-            accordionHeaders.forEach(header => {
+            document.querySelectorAll('.accordion-header').forEach(header => {
                 header.addEventListener('click', () => {
                     const content = header.nextElementSibling;
                     header.classList.toggle('active');
