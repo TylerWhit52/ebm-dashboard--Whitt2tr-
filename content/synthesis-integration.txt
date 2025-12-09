@@ -108,7 +108,6 @@ Bringing together all four types of evidence to inform your decision
 The table below provides a visual summary of how each evidence type supports key findings. This helps identify where we have strong cross-evidence agreement (●●●●), partial support (●●○○), or divergence (●○○○).
 
 | **Key Finding** | **Scientific** | **Practitioner** | **Organizational** | **Stakeholder** | **Convergence Level** |
-|---|:---:|:---:|:---:|:---:|---|
 | **Financial mismanagement causes long-term instability** | ●●● | ●●● | ●●● | ●●● | **Strong (4/4)** - High confidence |
 | **Poor injury protocols lead to recurrence** | ●●● | ●●● | ●●● | ●● | **Strong (3.5/4)** - High confidence |
 | **Lack of post-career planning increases risk** | ●●● | ●●● | ●● | ●●● | **Strong (3.5/4)** - High confidence |
