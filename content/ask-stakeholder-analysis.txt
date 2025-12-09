@@ -3,56 +3,21 @@
 
 ## Internal Stakeholders
 
-### Senior Management
-- **Interest in Problem:** Management malpractice can result in lawsuits, brand damage, and the loss of key talent.
-- **Interest in Solution:** A formal oversight system could reduce liability and improve team reputation, especially with sponsors and fans.
-- **Influence Level:** High
-- **Support Level:** Neutral to resistant (some may oppose oversight that limits internal control)
+Senior management represents a critical stakeholder group with high influence over implementation, though their support remains nuanced. Their interest in addressing malpractice stems from tangible concerns about lawsuits, brand damage, and the loss of key talent—all factors that directly impact organizational performance. A formal oversight system offers them protection from liability while improving team reputation with sponsors and fans. However, their support level hovers between neutral and resistant, as some executives may oppose oversight mechanisms that limit their internal control and decision-making autonomy.
 
-### Middle Management
-- **Interest in Problem:** The issue affects their credibility and potential income. Ethical agents want protection from reputational spillover.
-- **Interest in Solution:** Ethical agents may support reforms, while unethical ones may resist new rules or audits.
-- **Influence Level:** High
-- **Support Level:** Mixed – depends on how the solution impacts their autonomy and income
+Middle management—particularly agents and team managers—occupies a similarly high-influence position but with deeply mixed support levels. The malpractice problem directly affects their credibility and potential income streams. Ethical agents welcome reforms that protect them from reputational spillover associated with industry scandals, viewing oversight as professional validation. Conversely, agents engaged in questionable practices resist new rules or audits that threaten their autonomy and income generation methods. This divergence means their support depends heavily on how proposed solutions impact their operational freedom and compensation structures.
 
-### Employees/Staff (Medical staff, trainers, support personnel)
-- **Interest in Problem:** May be pressured to cover up injuries or make unsafe medical decisions
-- **Interest in Solution:** Likely to support reforms that protect their professional integrity and shield them from pressure
-- **Influence Level:** Medium
-- **Support Level:** Likely supporter
-
-### Other Internal Groups
-- **Department/Group:** Team Compliance or Legal Departments
-- **Interest in Problem:** Malpractice increases organizational risk and legal exposure
-- **Interest in Solution:** Compliance departments benefit from clearly defined ethical policies and enforcement protocols
-- **Influence Level:** Medium to High
-- **Support Level:** Strong supporter
+Medical staff, trainers, and support personnel experience the problem at ground level, often facing pressure to cover up injuries or make unsafe medical decisions that compromise their professional integrity. Their influence level sits at medium, but their support for reforms is notably strong—they recognize that ethical standards would shield them from organizational pressure to prioritize short-term performance over athlete health. Team compliance and legal departments share this supportive stance with medium-to-high influence, as malpractice increases their organizational risk exposure. These departments actively benefit from clearly defined ethical policies and enforcement protocols that reduce their legal liability and streamline their oversight responsibilities.
 
 ## External Stakeholders
 
-### Customers/Clients (Fans)
-- **Interest in Problem:** Fans expect fair treatment of athletes and are discouraged by scandals
-- **Interest in Solution:** Improved ethics enhances league credibility and fan loyalty
-- **Influence Level:** Medium (via public opinion, merchandise sales, ticket buying)
-- **Support Level:** Likely supporter
+Fans represent a medium-influence stakeholder group whose interest in the problem stems from expectations of fair athlete treatment and their disappointment when scandals emerge. While their direct influence operates indirectly through public opinion, merchandise sales, and ticket purchasing decisions, their collective voice shapes league reputation. Improved ethics enhances league credibility and strengthens fan loyalty, making them likely supporters of reform initiatives that demonstrate organizational commitment to athlete welfare.
 
-### Suppliers/Partners (Sponsors, Endorsement Partners)
-- **Interest in Problem:** Scandals involving athlete mistreatment can damage brand alignment
-- **Interest in Solution:** Brands prefer partnerships with teams and athletes in well-regulated environments
-- **Influence Level:** High
-- **Support Level:** Strong supporter
+Sponsors and endorsement partners wield high influence with strong support for oversight solutions. Scandals involving athlete mistreatment create brand alignment risks that directly threaten their marketing investments and corporate reputation. These organizations actively prefer partnerships with teams and athletes operating within well-regulated environments, as ethical frameworks protect their brand equity and reduce the likelihood of association with damaging controversies. Their financial leverage gives them significant persuasive power in advocating for reform.
 
-### Regulatory Bodies (Leagues, Player Associations)
-- **Interest in Problem:** Responsible for setting and enforcing rules of conduct
-- **Interest in Solution:** Can integrate ethical standards and enforce disciplinary action
-- **Influence Level:** High (rule-making authority)
-- **Support Level:** Mixed – some unions support reforms; leagues may resist central oversight
+Regulatory bodies—including leagues and player associations—occupy the highest influence position due to their rule-making authority and enforcement capabilities. Their interest in the problem is institutional, as they bear responsibility for setting and enforcing conduct standards across professional sports. However, their support level remains mixed and complex. Player associations typically champion reforms that protect member interests, while league offices may resist centralized oversight that imposes additional administrative burdens or constrains team operations. This tension creates a dynamic where both entities can integrate ethical standards and enforce disciplinary action, but their motivations and timelines for doing so may diverge significantly.
 
-### Community/Society (Public, Media, Advocacy Groups)
-- **Interest in Problem:** Malpractice may reflect broader concerns like worker exploitation, healthcare access, or racial injustice
-- **Interest in Solution:** Broader public may push for reform through media and social platforms
-- **Influence Level:** Medium
-- **Support Level:** Supporter (especially through public pressure)
+The broader community—encompassing the public, media, and advocacy groups—maintains medium influence through their ability to generate sustained pressure via social platforms and investigative journalism. Their interest in malpractice extends beyond sports to reflect broader societal concerns about worker exploitation, healthcare access, and systemic injustice. This stakeholder group functions as a supportive force for reform, particularly when scandals achieve widespread visibility and demand organizational accountability. Their advocacy amplifies athlete voices and creates reputational incentives for leagues and teams to implement meaningful changes.
 
 ---
 
@@ -86,36 +51,15 @@ By tailoring messages and incentives in this way, each stakeholder is more likel
 
 ## Key Stakeholder Insights for Evidence Collection
 
-### Who to Interview/Survey
-- Professional athletes (retired and active)
-- Agents and team compliance officers
-- Union representatives (e.g., NFLPA, NBPA)
-- Medical professionals associated with sports teams
-- League officials and executive managers
+Effective evidence gathering requires strategic engagement with diverse stakeholder groups who possess critical insights into management malpractice. Professional athletes—both retired and active—represent primary sources for understanding firsthand experiences with management failures, providing essential testimony about consequences through anonymous surveys and union-facilitated focus groups that protect their anonymity and career security. Agents and team compliance officers offer complementary perspectives on existing safeguards and regulatory gaps, accessible through confidential interviews and ethics questionnaires that encourage candid assessment without professional risk.
 
-### What Questions to Ask
-- To athletes: "Have you ever experienced or witnessed management malpractice? What were the consequences?"
-- To agents: "What safeguards do you believe protect athletes from poor management decisions?"
-- To unions/leagues: "What systems are currently in place for ethical oversight? Are they effective?"
-- To medical staff: "Have you felt pressured to clear athletes prematurely or hide injuries?"
-- To sponsors: "How do scandals involving athletes influence your brand decisions?"
+Union representatives from organizations like the NFLPA and NBPA possess institutional knowledge about current oversight systems and their effectiveness, making them valuable sources for formal policy document analysis and structured interviews. Medical professionals associated with sports teams can illuminate pressure dynamics around premature clearances and injury concealment, requiring interviews conducted under strict confidentiality protections to overcome institutional barriers to disclosure. League officials and executive managers provide governance perspectives, while sponsors and brand partners reveal how athlete mistreatment scandals influence corporate partnership decisions.
 
-### How to Engage
-- **Athletes:** Anonymous surveys, union focus groups
-- **Agents/Managers:** Confidential interviews or ethics questionnaires
-- **Leagues/Unions:** Formal requests for policy documents or interviews
-- **Medical staff:** Interviews under confidentiality protections
-- **Sponsors:** Brand reputation surveys or executive interviews
+The inquiry framework must address specific domains: athletes must be asked directly about experiences witnessing or experiencing malpractice and its consequences; agents should articulate what safeguards they believe protect athletes from poor management decisions; unions and leagues need to detail existing ethical oversight systems and assess their effectiveness; medical staff require safe space to discuss whether they've felt pressured to compromise medical judgments; and sponsors must explain how scandals influence their brand decision-making. This multi-stakeholder evidence collection strategy ensures comprehensive understanding by capturing perspectives from those directly affected, those responsible for governance, those implementing policies, and those with financial leverage to drive reform.
 ---
-#Stakeholder conflicts
-Several stakeholder groups are likely to resist aspects of the oversight initiative, each for specific reasons. Team owners and leagues may worry 
-about the costs of implementing vetting and audit systems and the administrative burden of compliance paperwork. They could also fear that stricter oversight might create competitive 
-disadvantages (for instance, if some teams adapt more slowly than others) and increase liability exposure by documenting problems that could lead to legal action. Agents and managers might resist 
-because tighter regulations and transparency in financial dealings could threaten their income streams, especially if they have been benefitting from opaque fee structures. In contrast, players 
-strongly desire protection and oversight, while some team executives prioritize autonomy – this fundamental tension between athlete welfare and management control is at the heart of the conflict.
 
-INSTRUCTIONS:
-1. Be specific about each stakeholder group's interests and influence
-2. Consider both obvious and hidden stakeholders
-3. Think about implementation challenges from stakeholder perspectives
-4. This analysis will guide your stakeholder evidence collection
+## Stakeholder Conflicts and Resistance Dynamics
+
+Implementation of oversight reforms will inevitably encounter resistance from multiple stakeholder groups, each driven by distinct concerns rooted in their institutional positions and economic interests. Team owners and leagues face apprehension about the financial and administrative costs of implementing comprehensive vetting and audit systems, viewing compliance paperwork as burdensome and potentially creating competitive disadvantages if adoption rates vary across organizations. More significantly, they fear that stricter oversight might increase liability exposure by creating documentary evidence of problems that could fuel legal action—a paradox where transparency designed to prevent harm might initially expose past negligence.
+
+Agents and managers represent another resistance vector, as tighter regulations and mandatory transparency in financial dealings directly threaten income streams built on opaque fee structures and undisclosed conflicts of interest. Those who have benefited from minimal oversight have the most to lose from reform, creating a predictable coalition opposing accountability measures. This resistance contrasts sharply with athletes' strong desire for protection and oversight, establishing a fundamental tension between athlete welfare and management autonomy that sits at the heart of the reform challenge. Successful implementation requires acknowledging these conflicts while building coalitions among stakeholders who recognize that short-term adaptation costs yield long-term benefits in legitimacy, reduced legal risk, and sustainable career management practices.

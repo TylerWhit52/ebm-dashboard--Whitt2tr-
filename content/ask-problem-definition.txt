@@ -4,19 +4,14 @@ Such malpractice may involve unethical decisions, lack of oversight, or conflict
 This problem matters because athletes are uniquely vulnerable—often young, undereducated in legal or medical areas, and reliant on advisors to protect their interests. Poor management not only affects individual athletes but also tarnishes the reputation of sports leagues, deters sponsors, and invites regulatory scrutiny.
 
 ## X → Y Framework
-### Current State-X 
-Many professional athletes are suffering long-term financial losses and untreated health issues due to unethical or negligent behavior by their sports management teams. Malpractice can include mismanagement of injury treatment, coercion to play while injured, poor financial guidance, lack of transparency, and conflicts of interest. These problems often go unnoticed until significant harm is done—when athletes retire broke or deal with chronic health problems stemming from earlier neglect.
 
-### Desired State-Y
-Athletes should be protected by enforceable ethical standards in sports management that ensure financial transparency, informed medical decision-making, and long-term career planning. This will result in better post-career health outcomes, reduced financial hardship, and a more accountable system for everyone involved in professional sports.
+**Current State:** Professional athletes across major sports leagues are experiencing devastating long-term consequences from unethical or negligent behavior by their management teams. The malpractice manifests in multiple forms—from mismanagement of injury treatment and coercion to play while injured, to poor financial guidance, lack of transparency, and pervasive conflicts of interest. The insidious nature of these problems means they often remain hidden until irreversible harm has occurred, emerging only when athletes face retirement with depleted finances or grapple with chronic health conditions that stem from years of medical neglect. The current system places athletes in a position of extreme vulnerability, trusting advisors who operate with minimal oversight and accountability.
+
+**Desired State:** The transformation required centers on establishing enforceable ethical standards across sports management that fundamentally protect athlete welfare. This means implementing robust systems for financial transparency, ensuring informed medical decision-making through independent oversight, and mandating comprehensive long-term career planning that extends beyond an athlete's playing years. Success in reaching this desired state will be measured through tangibly improved post-career health outcomes, dramatically reduced financial hardship among retired athletes, and the creation of an accountability framework that holds managers, agents, and organizational decision-makers to verifiable professional standards. This systemic change will benefit not just individual athletes, but will restore integrity and trust throughout the professional sports ecosystem.
 
 ## PICOC Framework
 
-- Population (P): Professional athletes in high-revenue sports leagues (NFL, NBA, MLB, etc.)
-- Intervention (I): Implementation of oversight and ethical accountability mechanisms for sports management practices (e.g., manager vetting, audits)
-- Comparison (C): Current state with minimal external regulation or performance review of managers/agents
-- Outcome (O): Increased financial stability and better long-term health outcomes for athletes
-- Context (C): U.S. professional sports teams, under player unions and league governance
+This investigation focuses on professional athletes within high-revenue sports leagues (NFL, NBA, MLB, etc.) who face significant vulnerabilities in their relationships with management teams. The proposed intervention involves implementing comprehensive oversight and ethical accountability mechanisms for sports management practices, including systematic manager vetting, regular financial audits, and transparent performance reviews. This approach contrasts sharply with the current landscape of minimal external regulation, where managers and agents operate with limited performance accountability or independent oversight. The expected outcomes include measurably increased financial stability for athletes—reducing the alarming bankruptcy rates post-retirement—alongside improved long-term health outcomes through better injury management and medical decision-making protocols. This framework operates within the context of U.S. professional sports organizations, where player unions and league governance structures provide the regulatory foundation for implementing these protective measures.
 
 
 
