@@ -6,7 +6,6 @@
     <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
     <meta name="version" content="2.1">
     <title>My EBM Dashboard | MGT357 - Fall 2025</title>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         /* === PROFESSIONAL COLOR SCHEME === */
         :root {
@@ -872,7 +871,9 @@
                             content.className = 'nested-accordion-content';
                             
                             const div = document.createElement('div');
-                            div.innerHTML = marked.parse(restOfSection);
+                            div.style.whiteSpace = 'pre-wrap';
+                            div.style.fontFamily = 'monospace';
+                            div.textContent = restOfSection;
                             content.appendChild(div);
 
                             item.appendChild(header);
@@ -885,9 +886,11 @@
                             });
                         });
                     } else {
-                        // Otherwise, just display the whole content as parsed markdown
+                        // Otherwise, just display the whole content as preformatted text
                         const div = document.createElement('div');
-                        div.innerHTML = marked.parse(text);
+                        div.style.whiteSpace = 'pre-wrap';
+                        div.style.fontFamily = 'monospace';
+                        div.textContent = text;
                         contentContainer.appendChild(div);
                     }
 
