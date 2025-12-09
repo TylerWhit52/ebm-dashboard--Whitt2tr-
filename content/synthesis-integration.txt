@@ -134,7 +134,7 @@ The table below provides a visual summary of how each evidence type supports key
 
 ---
 
-### Evidence Gaps
+## Evidence Gaps
 
 **Critical Gap 1:** Lack of standardized metrics across teams for monitoring malpractice-related outcomes  
 - **Impact on Decision:** Makes it difficult to benchmark and compare effectiveness of interventions  
