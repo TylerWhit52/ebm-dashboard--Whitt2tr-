@@ -117,33 +117,17 @@ The table below provides a visual summary of how each evidence type supports key
 | **Mandatory programs more effective than voluntary** | ●●● | ●● | ○ | ● | **Weak (2/4)** - Low-Medium confidence |
 | **Responsibility should lie with leagues vs. teams** | ●● | ● | ● | ●● | **Divergent (1.5/4)** - Disagreement |
 
-**Legend:**  
-- ●●● = Strong support (high-quality evidence directly confirms finding)  
-- ●● = Moderate support (evidence suggests but with limitations)  
-- ● = Weak support (limited or indirect evidence)  
-- ○ = No support or contradicts finding
+**Legend:** ●●● = Strong support (high-quality evidence directly confirms finding) | ●● = Moderate support (evidence suggests but with limitations) | ● = Weak support (limited or indirect evidence) | ○ = No support or contradicts finding
 
-### Key Insights from the Matrix:
+**Strongest Convergence (4/4 sources agree):** Financial mismanagement is the primary driver of athlete instability. All evidence types confirm this is a systemic problem requiring intervention.
 
-**Strongest Convergence (4/4 sources agree):**
-- Financial mismanagement is the primary driver of athlete instability
-- All evidence types confirm this is a systemic problem requiring intervention
+**Strong Convergence (3-3.5/4 sources agree):** Health protocol failures and lack of career planning are well-documented across multiple sources. These areas have high implementation priority due to evidence strength.
 
-**Strong Convergence (3-3.5/4 sources agree):**
-- Health protocol failures and lack of career planning are well-documented across multiple sources
-- These areas have high implementation priority due to evidence strength
+**Moderate Convergence (2.5-3/4 sources):** Solution approaches (oversight, education, audits) have good support but need refinement. Organizational evidence is weaker here due to limited historical implementation data.
 
-**Moderate Convergence (2.5-3/4 sources):**
-- Solution approaches (oversight, education, audits) have good support but need refinement
-- Organizational evidence is weaker here due to limited historical implementation data
-
-**Low Convergence/Divergence (<2.5/4):**
-- Athlete preferences and mandatory vs. voluntary approaches show disagreement
-- Implementation will require pilot testing and stakeholder negotiation in these areas
+**Low Convergence/Divergence (<2.5/4):** Athlete preferences and mandatory vs. voluntary approaches show disagreement. Implementation will require pilot testing and stakeholder negotiation in these areas.
 
 **Critical Implication:** Your solution should prioritize interventions with strong convergence (financial education, injury protocols, career planning) while treating lower-convergence areas (mandatory compliance structures) as adaptive elements requiring stakeholder input.
-
----
 
 **Resolution Approach:** Use a dual-accountability model—shared responsibility between institutions and players—with policy enforcement
 
