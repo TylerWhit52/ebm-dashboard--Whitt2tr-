@@ -1,54 +1,18 @@
 # Scientific Evidence: Methods & Acquisition Strategy
+
 ## Research Question
 
-**Primary Research Question:**  
-What does the academic literature reveal about the long-term impacts of financial and health-related mismanagement of professional athletes?
-
-**Secondary Research Question:**  
-What interventions or reforms (e.g., financial literacy, medical oversight, agent regulation) have been empirically shown to reduce post-career risk for professional athletes?
+This investigation pursued two interconnected research questions designed to establish both the scope of management malpractice and potential solutions. The primary question examined what the academic literature reveals about the long-term impacts of financial and health-related mismanagement on professional athletes, focusing on quantifiable outcomes such as bankruptcy rates, career longevity, and post-retirement health status. The secondary question investigated what interventions or reformsincluding financial literacy programs, medical oversight protocols, and agent regulation mechanismshave been empirically shown to reduce post-career risk for professional athletes. Together, these questions frame both the problem severity and the evidence base for potential solutions.
 
 ---
 
 ## Search Strategy
 
-### Databases Searched
-- [x] **Google Scholar**
-- [x] **Business Source Premier**
-- [x] **PubMed/MEDLINE**
-- [x] **SSRN**
-- [x] **JSTOR**
-- [ ] **Other:** University library database (JMU Library proxy)
+The literature search employed a systematic multi-database approach to ensure comprehensive coverage of both medical and business literature related to athlete welfare. The search spanned six major academic databases: Google Scholar for broad interdisciplinary coverage, Business Source Premier for management and financial literature, PubMed/MEDLINE for health outcomes research, SSRN for working papers and emerging research, JSTOR for established social science journals, and supplementary access through the JMU Library proxy for subscription-restricted content. This database selection strategy ensured capture of both peer-reviewed empirical studies and recent working papers that might not yet appear in traditional journals.
 
-### Keywords and Search Terms
+The keyword strategy employed both primary and secondary search terms to balance specificity with comprehensiveness. Primary keywords targeted the core problem domain: "professional athlete financial literacy," "concussion outcomes retired NFL," "management malpractice sports," "long-term athlete health outcomes," and "financial fragility NFL." Secondary keywords expanded the search to related concepts: "sports management ethics," "career transition athletes," "independent oversight sports," "agent misconduct NFL," and "athlete exploitation." Boolean search combinations systematically connected these termsfor example, ("financial literacy" AND "professional athletes"), ("sports concussion" AND "retired NFL"), and ("management malpractice" OR "agent misconduct") AND ("professional athletes")to identify studies examining the intersection of management practices and athlete outcomes.
 
-#### Primary Keywords
-- “professional athlete financial literacy”
-- “concussion outcomes retired NFL”
-- “management malpractice sports”
-- “long-term athlete health outcomes”
-- “financial fragility NFL”
-
-#### Secondary Keywords  
-- “sports management ethics”
-- “career transition athletes”
-- “independent oversight sports”
-- “agent misconduct NFL”
-- “athlete exploitation”
-
-#### Boolean Search Combinations
-- ("financial literacy" AND "professional athletes")  
-- ("sports concussion" AND "retired NFL")  
-- ("management malpractice" OR "agent misconduct") AND ("professional athletes")  
-- ("career transition" AND "NFL" OR "pro sports")
-
-### Search Filters Applied
-- **Date Range:** 2013–2023  
-- **Language:** English  
-- **Study Types:** Peer-reviewed empirical studies (quantitative, qualitative, mixed methods)  
-- **Geographic Scope:** U.S., Europe, Canada  
-- **Industry Focus:** Professional sports (especially NFL, but also NBA, MLB, general elite athletics)
-
----
+Search filters refined results to ensure relevance and quality. The date range of 20132023 captured the most recent decade of research while excluding outdated studies that might not reflect current management practices or medical knowledge. Language restrictions limited results to English to ensure accurate interpretation, while study type filters prioritized peer-reviewed empirical studies employing quantitative, qualitative, or mixed methods approaches. Geographic scope focused primarily on U.S. professional sports, with selective inclusion of European and Canadian studies for comparative context. Industry focus concentrated on major professional sports leaguesespecially the NFL given its prominence in malpractice discussionswhile including NBA, MLB, and general elite athletics literature when relevant to the research questions.
 
 ## Selection Criteria
 
