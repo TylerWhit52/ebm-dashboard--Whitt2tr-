@@ -835,7 +835,7 @@
                 if (!contentContainer) continue;
 
                 try {
-                    const response = await fetch(`content/${filename}`);
+                    const response = await fetch(`content/${filename}?v=${Date.now()}`);
                     if (!response.ok) {
                         throw new Error(`HTTP error! status: ${response.status}`);
                     }
