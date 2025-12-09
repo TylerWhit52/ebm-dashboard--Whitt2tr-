@@ -22,89 +22,15 @@ Effective internal data gathering required careful attention to privacy, permiss
 
 This approach balanced the need for rigorous evidence gathering with fundamental ethical obligations to protect athlete privacy and organizational confidentiality. The resulting data provided quantifiable documentation of malpractice scope and organizational readiness for intervention, while maintaining the privacy protections essential to trusted research relationships with professional sports organizations.
 
-## Data Analysis and Baseline Establishment
 
-### Baseline Establishment
-#### Pre-Problem Baselines
-Historical data from before policy implementation (e.g. pre-2018)
+## Analysis and Documentation Framework
 
-#### Normal Operating Ranges
-Expected ranges for re-injury, debt levels, based on athlete norms
+The data analysis plan employed multiple complementary approaches to establish comprehensive organizational understanding. Baseline establishment identified historical conditions before policy implementation (such as pre-2018 practices) and established normal operating ranges for metrics like injury recurrence and debt levels based on documented athlete profiles. Comparative benchmarking analyzed organizational metrics against league-wide averages in post-retirement financial stability and health outcomes, providing context for how organizational practices diverged from or aligned with industry norms.
 
-#### Benchmark Comparisons
-Compare to league-wide averages (e.g. NFL/NBA post-retirement stats)
+Problem evidence analysis systematically examined documented indicatorsbankruptcy incidence, chronic injury prevalence, and grievance complaint countsto measure problem severity through quantifiable metrics: percentage of athlete population affected, average financial loss per affected individual, and years of performance loss attributable to injury-related mismanagement. Root cause investigation cross-referenced poor athlete outcomes with internal management data, investigating how specific organizational decisions or practices correlated with measurable harm.
 
-### Problem Evidence Analysis
-#### Problem Indicators
-Bankruptcy, chronic injury, grievance counts
+Solution feasibility analysis assessed organizational readiness for implementing reforms: resource availability (training budgets, education staffing, athlete engagement capacity), past implementation success rates documenting organizational learning curves, technology support infrastructure, legal exposure from acknowledgment of past failures, athlete compliance patterns with organizational requirements, and data completeness enabling effective monitoring.
 
-#### Problem Severity Measurement
-% affected, average financial loss, years of injury-related performance loss
+Documentation throughout the analysis process maintained methodological transparency: data collection logs tracked sources, timeframes, contact persons, and analytical notes; analysis documentation included method memos and versioned analysis scripts (Excel or Python); two-stage quality assurance reviews assessed both completeness and validity of documented evidence; and version control systems tracked all changes to reports and supporting materials.
 
-#### Root Cause Investigation
-Cross-reference poor outcomes with internal management data
-
-### Solution Feasibility Analysis
-#### Resource Assessment
-Training budgets, education staffing, athlete engagement resources
-
-#### Capability Assessment
-Past implementation success rates, technology support
-
-#### Risk Assessment
-Legal exposure, athlete non-compliance, data incompleteness
-
-## Documentation Strategy
-
-### Data Collection Log
-Excel sheet tracking source, timeframe, contact, notes
-
-### Analysis Documentation
-Method memos, versioned scripts (Excel or Python)
-
-### Quality Assurance
-Two-stage review: completeness + validity
-
-### Version Control
-Change-tracked reports and spreadsheets
-
-## Expected Challenges
-
-### Data Availability
-Missing older records, fragmented tracking
-
-### Data Quality Issues
-Inconsistent data labels, duplicate entries
-
-### Access Barriers
-Slow approvals, sensitive data restrictions
-
-### Time Constraints
-Delays due to privacy or holiday scheduling
-
-## Backup Plans
-
-### Alternative Data Sources
-Union reports, insurance claim summaries
-
-### Proxy Measures
-Surveys as stand-in for unavailable financial docs
-
-### Simplified Analysis
-Case study comparison + literature benchmarks
-
----
-
-### Organizational Evidence Acquisition Methods (ACQUIRE)
-
-**Data Sources Identified:**
-- Financial reports (pay, benefits, bonuses, grievance payments)
-- Medical records (injury, treatment, clearances)
-- Legal/compliance logs (malpractice reports)
-- Athlete surveys
-- Internal project memos (training, retirement support)
-
----
-
-**Data Access and Collection Process:**
-Requests will be submitted to finance and medical departments with justification. Some data will be pulled from dashboards, while others will be structured export requests. Interview requests will also go through HR and ethics approval.
+Expected challenges in organizational data gathering included missing or fragmented historical records, inconsistent data labeling preventing cross-time comparison, duplicate entries from multiple systems, slow institutional approval processes, data access restrictions due to privacy requirements, and timeline delays from holiday scheduling or attorney review. Backup plans addressed these constraints: union reports and insurance claim summaries provided alternative data sources when direct organizational records proved unavailable; satisfaction surveys substituted for unavailable financial documentation; and simplified analysis frameworks employing case study comparison and literature benchmarking operated when comprehensive quantitative data remained inaccessible.
