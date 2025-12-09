@@ -1,92 +1,28 @@
 # Organizational Evidence: Internal Data Collection Strategy
-# Document your approach to gathering internal organizational evidence
 
-## Internal Evidence Goals
-**Primary Goal:** Measure internal risk factors and outcomes such as financial misconduct (e.g. misallocated investments, fraud, bankruptcies) and improper health management (e.g. injury re-injury rates, delayed treatments).
-**Secondary Goal:** Determine internal resource and capability availability for implementing preventative solutions to malpractice.
+## Organizational Evidence Goals
 
-## Available Data Sources
+This investigation pursued two interconnected goals regarding internal organizational data. The primary goal measured internal risk factors and measurable outcomes documenting the scope of malpractice within professional sports organizations: financial misconduct including misallocated investments, fraudulent practices, and documented bankruptcies, alongside improper health management manifesting as high injury recurrence rates, delayed treatments, and inadequate protocols. The secondary goal assessed internal resource and capability availability, determining whether organizations possessed the financial resources, technical infrastructure, and institutional will to implement preventative solutions that might mitigate future malpractice.
 
-### Performance Metrics/KPIs
-- **Financial Data:** Athlete bankruptcy rates, emergency loan requests, average debt levels
-- **Operational Data:** Incident response times, athlete case resolution rates
-- **Human Resources Data:** Talent retention, turnover, athlete satisfaction survey scores
-- **Customer Data:** Athlete experience ratings, feedback on financial/medical support
-- **Other Relevant Metrics:** Health outcomes, injury recurrence, financial hardship claim rates
+## Data Sources and Systems
 
-### Internal Systems
-- **CRM Systems:** N/A for internal athlete data context
-- **ERP Systems:** If applicable, manage scheduling and performance tracking
-- **HR Information Systems:** Salary, bonuses, medical exemptions, post-career benefits
-- **Financial Systems:** Contract values, disbursement records, agent fee tracking
-- **Operations Systems:** Injury reporting, rehab scheduling, service provision metrics
+Organizations possess multiple data sources capturing malpractice dynamics and organizational capacity. Financial data includes athlete bankruptcy rates, emergency loan requests from players facing unexpected hardship, and average debt level trendscritical indicators of financial management failures. Operational metrics track incident response times (how quickly organizations address problems), athlete case resolution rates, and health outcomes including injury recurrence patterns and claims for financial hardship. Human resources data documents athlete retention and turnover, satisfaction survey scores, and post-career outcome tracking. Customer-facing metrics capture athlete experience ratings and feedback specifically regarding financial and medical support quality.
 
-### Reports and Documentation
-- **Regular Reports:** Quarterly reports from medical/legal/finance departments
-- **Survey Results:** Athlete post-retirement outcomes, satisfaction scores
-- **Audit Results:** Internal malpractice investigations, compliance breaches
-- **Assessment Reports:** Post-season physical reviews, contract fulfillment
-- **Historical Studies:** Internal cases of mismanagement linked to financial loss/injury
+Internal systems supporting evidence collection typically include financial systems tracking contract values, disbursement records, and agent fee accountability; medical systems documenting injury reports, rehabilitation scheduling, and service provision metrics; and HR information systems maintaining salary, bonus, medical exemption, and post-career benefit data. While organizational structures vary, these core data infrastructures exist across major professional sports organizations and provide quantifiable windows into management practices and their consequences.
 
-## Data Collection Plan
+## Data Collection Approach
 
-### Quantitative Data Collection
-#### Metrics to Collect
+The data collection plan employed both quantitative and qualitative methods to establish comprehensive organizational understanding. Quantitative collection focused on problem-related metrics documenting malpractice: athlete bankruptcy rates (tracked through union reports and HR documentation), injury recurrence patterns (extracted from medical systems), and formal grievance reports (maintained in legal and compliance logs). Solution-related metrics measured organizational readiness: financial literacy program reach (enrollment and completion data from training records), risk protocol compliance rates (medical log documentation of adherence), and athlete support satisfaction scores (captured through surveys). Historical analysis examined trends across 510 year periods, establishing baseline conditions before policy implementation and tracking 3-year rolling averages to identify meaningful shifts in organizational practices.
 
-**Problem-Related Metrics:**
-- Metric 1: Bankruptcy Rate - Current value: TBD - Data source: HR/Union reports
-- Metric 2: Injury Recurrence - Current value: TBD - Data source: Medical systems
-- Metric 3: Grievance Reports - Current value: TBD - Data source: Legal/Compliance logs
+Qualitative data collection complemented quantitative metrics through systematic review of internal organizational documentation: policy documents outlining medical protocols and financial counseling mandates, meeting minutes from athlete councils and compliance briefings, communication records capturing complaint patterns and feedback, and initiative reports documenting results of athlete safety and financial protection programs. Observational data collection examined process implementation: how organizations handle injury management and post-incident follow-up, timing of case escalation through organizational hierarchies, communication channels used for athlete alerts and sensitive disclosures, and cultural patterns evident in athlete-manager relationships and trust dynamics.
 
-**Solution-Related Metrics:**
-- Metric 1: Financial Literacy Program Reach - Baseline: TBD - Data source: Internal training records
-- Metric 2: Risk Protocol Compliance Rate - Baseline: TBD - Data source: Medical logs
-- Metric 3: Support Satisfaction Score - Baseline: TBD - Data source: Athlete surveys
+## Data Access and Ethical Implementation
 
-#### Time Period Analysis
-- **Historical Data Range:** Past 5–10 years
-- **Trend Analysis Period:** 3-year rolling average comparisons
-- **Seasonal Considerations:** Injury trends by sport season
-- **Baseline Period:** 2015–2020 for pre-policy norms
+Effective internal data gathering required careful attention to privacy, permissions, and ethical guardrails. Data custodiansincluding finance leads, medical directors, and compliance officersmaintained control over data release, requiring formal written requests, NDA amendments where applicable, and manager sign-off on access. HIPAA compliance and union player protections mandated strict confidentiality: all reporting aggregated data rather than individual case identification, with anonymized identifiers preventing athlete identification. Data security employed encrypted file storage and restricted access, limiting use to project purposes with explicit prohibition against external redistribution. Reporting boundaries presented summary statistics only, with case descriptions anonymized to prevent identifying individuals while still capturing evidence of systemic patterns.
 
-### Qualitative Data Collection
-#### Internal Documents Review
-- **Policy Documents:** Medical protocol, financial counseling mandates
-- **Meeting Minutes:** Athlete council meetings, compliance briefings
-- **Communication Records:** Complaint email chains, feedback memos
-- **Project Reports:** Athlete safety and finance initiative results
+This approach balanced the need for rigorous evidence gathering with fundamental ethical obligations to protect athlete privacy and organizational confidentiality. The resulting data provided quantifiable documentation of malpractice scope and organizational readiness for intervention, while maintaining the privacy protections essential to trusted research relationships with professional sports organizations.
 
-#### Observational Data
-- **Process Observations:** Injury handling and post-game follow-up
-- **Workflow Analysis:** Case escalation timing
-- **Communication Patterns:** Channels used for athlete alerts
-- **Cultural Observations:** Trust themes in athlete-manager relationships
-
-## Access and Permissions
-
-### Data Access Strategy
-#### Required Permissions
-- **Data Custodians:** Finance lead, medical director, compliance officer
-- **Approval Process:** Written requests, NDA amendments, manager sign-off
-- **Privacy Considerations:** HIPAA compliance, union protections
-- **Confidentiality Requirements:** Aggregated reporting only, anonymized identifiers
-
-#### Contact Plan
-1. **Primary Contact:** Medical Director
-   - **Data Sources:** Injury logs, protocol breaches
-   - **Approach:** Formal request + HIPAA compliance agreement
-
-2. **Secondary Contact:** Finance Director
-   - **Data Sources:** Compensation trends, hardship claim data
-   - **Approach:** Request + aggregated extract approval
-
-### Ethical Considerations
-- **Employee Privacy:** Anonymized identifiers
-- **Data Security:** Secure encrypted file storage
-- **Use Limitations:** Project-only access, no external redistribution
-- **Reporting Boundaries:** Summary statistics only, case descriptions anonymized
-
-## Data Analysis Plan
+## Data Analysis and Baseline Establishment
 
 ### Baseline Establishment
 #### Pre-Problem Baselines
