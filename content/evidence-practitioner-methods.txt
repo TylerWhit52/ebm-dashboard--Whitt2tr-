@@ -1,61 +1,24 @@
 # Practitioner Evidence: Methods & Acquisition Strategy
-# Document your approach to gathering expert insights and professional experience
 
 ## Practitioner Evidence Goals
-**Primary Goal:** Understand how malpractice in sports management, especially financial misguidance and medical neglect, is experienced and perceived by seasoned professionals.
-**Secondary Goal:** Identify practitioner informed strategies that have been effective in preventing or mitigating athlete exploitation and long term harm.
 
-## Target Practitioners
+This investigation pursued two interconnected goals in gathering practitioner evidence. The primary goal sought to understand how malpractice in sports managementparticularly financial misguidance and medical neglectis experienced and perceived by professionals with direct exposure to these problems. Rather than relying solely on research literature, this approach captured tacit knowledge about the realities of athlete management that published studies might miss. The secondary goal worked to identify practitioner-informed strategies that have proven effective in preventing or mitigating athlete exploitation and long-term harm, drawing on decades of accumulated experience from those working within the system.
 
-### Industry Experts
-**Target Profile:** Retired or active professionals with direct experience in sports agency, league governance, athlete development, or medical/legal advisory roles in athletics.
-- Years of experience desired: Years of experience desired: 7–25 years
-- Industry/sector focus: Industry/sector focus: Professional sports (NFL, NBA, etc.), sports law, sports medicine, financial advising for athletes
-- Role/position types: Player agents, league administrators, athlete financial advisors, team physicians, compliance officers
-- Company size experience: SME to major league organizations
-- Geographic location: Primarily U.S.-based, with openness to international comparisons
+## Target Practitioners and Identification Strategy
 
-### Specific Practitioners Identified
-1. **Name/Title/Organization:** Joe Linta / NFL Agent / JL Sports
-   - **Relevance:** Represents high-profile athletes and speaks publicly on contract fairness and athlete longevity
-   - **Contact Method:** Interview excerpts and secondary analysis from podcast appearances
+The evidence gathering strategy targeted industry experts with direct experience in the professional sports ecosystem: retired or active professionals in sports agency, league governance, athlete development, and medical or legal advisory roles. The target profile prioritized practitioners with 725 years of experience across major professional leagues (NFL, NBA, MLB), sports law, and sports medicine, working at organizations ranging from small specialist firms to major league structures. Geographic focus remained primarily U.S.-based while remaining open to international comparisons that might illuminate universal patterns in athlete management.
 
-2. **Name/Title/Organization:** Dr. Robert Cantu / Neurosurgeon & CTE Researcher
-   - **Relevance:** Leads medical literature and policy shifts related to sports-related brain trauma
-   - **Contact Method:** Publicly available interviews, white papers, and conference materials
+Specific practitioners were identified based on their demonstrated public engagement with athlete welfare issues. Joe Linta, an NFL agent at JL Sports, was selected for his public advocacy on contract fairness and athlete career longevityhis perspectives accessible through podcast appearances and media interviews. Dr. Robert Cantu, a neurosurgeon and leading CTE researcher, provided critical insights into medical literature and policy shifts around sports-related brain trauma, drawn from his published interviews, white papers, and conference materials. David Cornwell, a sports attorney specializing in cases involving institutional negligence against athletes, contributed legal and systemic perspectives through legal publications, op-eds, and public lectures. These practitioners were selected not through direct contact but through analysis of their publicly available commentary and documented case work.
 
-3. **Name/Title/Organization:** David Cornwell / Sports Attorney
-   - **Relevance:** Represents athletes in legal battles and speaks on institutional negligence
-   - **Contact Method:** Legal publications, op-eds, and lectures
+## Evidence Acquisition Methods
 
-### Published Practitioner Sources
-Insights were acquired through analysis of high-quality secondary materials, including in-depth practitioner interviews, long-form industry
-profiles, expert commentary, and panel transcripts. These were accessed via professional news outlets, sports law journals, association websites, and reputable 
-long-form podcasts and reports.
+Practitioner insights were gathered exclusively through high-quality secondary materials rather than original interviews. This approach involved systematic analysis of in-depth practitioner interviews published in professional outlets, long-form industry profiles in respected publications, expert commentary and panel transcripts from professional conferences, and detailed case studies examining specific management failures and reform efforts. Sources included professional news outlets (ESPN, The Athletic), sports law journals, player association publications, and reputable long-form podcasts and investigative reports known for rigorous vetting and expert access.
 
+Case study research followed a targeted indexing strategy, prioritizing published case studies from high-credibility sources including The Athletic, Sports Illustrated, Harvard Business Review (sports coverage), and LawInSport. Search strategy organized cases by specific topic domains: concussion litigation and medical mismanagement, athlete bankruptcy prevention and financial education, and documented management malpractice with visible consequences. Key takeaways from each case were documented in a standardized table format capturing source URLs, relevance to the malpractice problem, practitioner quoted, and specific mitigation strategies discussed. Target organizations included the NFLPA, Rosenhaus Sports Representation, Steinberg Sports, and organizations like the Athlete Recovery Fund, with insights drawn exclusively from official publications, policy whitepapers, ESPN features, and vetted journalism rather than direct solicitation.
 
-### Case Study Research
+## Documentation and Source Tracking
 
-#### Published Case Studies
-- **Target Sources:** The Athletic, Sports Illustrated, Harvard Business Review (sports editions), LawInSport
-- **Search Strategy:** Case study indexing by topic ("concussion litigation," "athlete bankruptcy prevention," "management malpractice")
-- **Documentation Plan:** Key takeaways were documented in a standardized table format with source URLs and relevance notes
-
-#### Company Examples
-- **Target Companies:** NFLPA, Rosenhaus Sports, Steinberg Sports, Athlete Recovery Fund
-- **Information Sources:** Annual reports, policy whitepapers, ESPN features, legal proceedings summaries
-- **Contact Strategy:** No direct contact; insights drawn from official publications and vetted journalism
-
-## Documentation Strategy
-
-### Interview Documentation
-Not applicable – no original interviews conducted.
-
-### Case Study Documentation
-- **Template:** Summary table with fields for organization, relevance to malpractice problem, practitioner quoted, and mitigation strategy
-- **Key Elements:** Root problem, evidence of impact, solution used, stakeholder affected
-- **Source Tracking:** APA-style citations + source file archive for reproducibility
-
+All practitioner evidence underwent rigorous documentation to ensure reproducibility and traceability. Case studies were summarized using a consistent template capturing organization, relevance to the malpractice problem, practitioner perspectives quoted, root problems identified, measurable evidence of impact, solutions attempted, and stakeholders affected. Each source received APA-style citation alongside archival notation for source reproducibility, allowing future researchers to verify findings against the original materials. This documentation approach balanced the need for efficiency (analyzing secondary sources rather than conducting time-intensive original interviews) with methodological rigor (transparent sourcing and standardized extraction).
 
 ---
 INSTRUCTIONS:
