@@ -16,19 +16,9 @@ Search filters refined results to ensure relevance and quality. The date range o
 
 ## Selection Criteria
 
-### Inclusion Criteria
-- Studies analyzing financial, health, or career management of professional athletes  
-- Empirical data (quantitative preferred)  
-- Research conducted within professional sports organizations or involving retired/active pro athletes  
-- Peer-reviewed journals or credible institutional reports  
-- Effect sizes or measurable outcomes reported
+Study inclusion and exclusion criteria were designed to ensure focus on empirical evidence directly relevant to professional athlete management and welfare outcomes. Inclusion criteria prioritized studies analyzing financial, health, or career management practices affecting professional athletes, with emphasis on research reporting empirical data (quantitative outcomes preferred over qualitative). Studies conducted within professional sports organizations or involving cohorts of retired or active professional athletes received priority, as did peer-reviewed journal articles and credible institutional reports. Final inclusion required explicit reporting of effect sizes, measurable outcomes, or quantifiable results that could be compared across studies.
 
-### Exclusion Criteria  
-- Non-professional athlete samples  
-- Studies focused solely on amateur/college athletes  
-- Articles without empirical data (opinion, editorial)  
-- Non-English language articles  
-- Duplicate or inaccessible studies
+Exclusion criteria removed studies lacking direct relevance or sufficient rigor. Studies examining non-professional athlete populationsparticularly those focused solely on amateur or college athleteswere excluded to maintain focus on the professional context where malpractice dynamics differ significantly. Articles presenting only opinion, editorial commentary, or other non-empirical content were excluded regardless of topic relevance. Non-English language articles were excluded to ensure accurate interpretation and comparison across the evidence base. Duplicate publications, inaccessible studies (even with institutional proxy access), and studies where relevance remained ambiguous after abstract review were also excluded.
 
 ---
 
@@ -92,18 +82,9 @@ For each study, I documented:
 
 ## Challenges and Limitations
 
-### Search Limitations
-- Few RCTs or meta-analyses specific to athlete management topics  
-- Limited access to niche sports law journals without full subscription  
-- NFL-focused studies dominated; fewer in NBA, MLB, or European football
+The scientific evidence acquisition process encountered several important limitations that shaped both the scope and certainty of findings. The evidence base itself presented a fundamental constraint: few rigorous randomized controlled trials or systematic meta-analyses directly addressed athlete management topics, forcing reliance on observational studies and single-site investigations with lower internal validity. Access barriers compounded this challengemany promising studies remained trapped behind journal paywalls, accessible only through the JMU Library proxy, while niche sports law and management journals required institutional subscriptions the university did not maintain. Thematic concentration created additional bias: studies focused overwhelmingly on NFL populations and concussion outcomes, while evidence from NBA, MLB, or European football remained sparse, potentially limiting generalizability to the broader professional sports context.
 
-### Resource Constraints
-- Time limit to screen broad terms thoroughly  
-- Some promising articles lacked full access despite university tools
-
-### Topic-Specific Challenges
-- Terminology was inconsistent across disciplines (e.g., “financial fragility” vs “literacy gaps”)  
-- Many studies focused on problem descriptions, not interventions or outcomes
+Resource constraints further shaped the evidence gathering process. The time available to comprehensively screen all results from broad search terms proved insufficient, forcing prioritization of high-relevance results rather than exhaustive review. Several promising articles that might have contributed relevant data remained inaccessible despite thorough proxy searching. Topic-specific terminology challenges added interpretive complexitykey concepts like "financial fragility," "literacy gaps," and "management accountability" lacked consistent definitions across disciplines, requiring careful cross-study comparison. Perhaps most significantly, the literature itself reflected a research bias toward problem description: many studies documented that mismanagement occurs and produces negative outcomes, but far fewer provided empirical evaluation of specific interventions or reforms that might mitigate risk. This gap meant that while the evidence strongly validates the problem scope (X), it provides comparatively weaker empirical grounding for solution effectiveness (Y).
 
 ---
 
