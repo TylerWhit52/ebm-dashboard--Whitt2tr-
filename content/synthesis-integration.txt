@@ -1,5 +1,8 @@
+---
+
 # Evidence Integration & Synthesis
-# Bringing together all four types of evidence to inform your decision
+
+Bringing together all four types of evidence to inform your decision
 
 ## Evidence Summary by Type
 
