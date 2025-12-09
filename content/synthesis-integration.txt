@@ -133,18 +133,19 @@ The table below provides a visual summary of how each evidence type supports key
 
 ## Evidence Gaps
 
-### Critical Gaps
-**Gap 1:** Lack of standardized metrics across teams for monitoring malpractice-related outcomes  
+**Critical Gap 1:** Lack of standardized metrics across teams for monitoring malpractice-related outcomes  
 - **Impact on Decision:** Makes it difficult to benchmark and compare effectiveness of interventions  
 - **Mitigation Strategy:** Develop a uniform reporting and evaluation framework in partnership with stakeholders
 
-**Gap 2:** Limited longitudinal data tracking athletes’ financial and health outcomes post-retirement  
+**Critical Gap 2:** Limited longitudinal data tracking athletes' financial and health outcomes post-retirement  
 - **Impact on Decision:** Reduces confidence in long-term projections and solution impact modeling  
 - **Mitigation Strategy:** Begin new data collection initiatives while using short-term indicators as proxies
 
-### Minor Gaps
-**Gap:** Limited insight into the role of agents and third-party advisors in malpractice  
-**Mitigation Strategy:** Include stakeholder interviews and exploratory reviews in follow-up research
+**Minor Gap:** Limited insight into the role of agents and third-party advisors in malpractice  
+- **Mitigation Strategy:** Include stakeholder interviews and exploratory reviews in follow-up research
+
+---
+
 ## Evidence-Based Problem Refinement
 
 ### Original Problem Statement
