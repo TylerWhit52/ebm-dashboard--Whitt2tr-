@@ -99,8 +99,6 @@
 - Bias influences: Stakeholders may emphasize grievances; organizations may deflect blame  
 - Quality differences: Scientific and organizational data are stronger than anecdotal practitioner reports
 
----
-
 ## Evidence Convergence Matrix
 
 The table below provides a visual summary of how each evidence type supports key findings. This helps identify where we have strong cross-evidence agreement (●●●●), partial support (●●○○), or divergence (●○○○).
