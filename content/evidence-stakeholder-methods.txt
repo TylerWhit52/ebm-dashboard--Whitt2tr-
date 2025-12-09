@@ -1,69 +1,33 @@
 # Stakeholder Evidence: Methods & Engagement Strategy
 
-## How We Collected Stakeholder Input
-Instead of interviewing athletes or team staff directly, we relied on public, first-hand material that already exists — things like surveys, athlete interviews, legal filings, podcasts, panel discussions, and even Reddit AMAs where former athletes talk honestly about their experiences.
+## Evidence Collection Approach
 
-One useful example was an NFLPA health and safety survey showing that 78% of players don’t trust team doctors. We also looked at stories from retired players and testimonies from lawsuits. In one high-profile case, former NFL players said team doctors were financially rewarded for denying injury claims.
+This investigation gathered stakeholder input through systematic analysis of publicly available, first-hand materials rather than original interviews or surveys. The evidence base included documented surveys such as NFLPA health and safety assessments, published interviews with athletes and league officials, legal filings and deposition transcripts, podcast appearances featuring athlete perspectives, panel discussions from industry conferences, and athlete-led online discussions (Reddit AMAs and similar platforms) where former players discuss their experiences candidly. This approach captured genuine stakeholder viewpointsthe actual voices of those directly affected by and responsible for management practiceswithout requiring new data collection or introducing ethical complications.
 
-Using this type of evidence let us get genuine stakeholder viewpoints without pretending to collect “new” data. Everything we used was publicly available and ethically safe — no deception, no privacy issues, just real voices already out there.
+For example, NFLPA health and safety surveys documented that 78% of players report not trusting team doctors, providing quantified evidence of systemic trust breakdown. Interviews and testimonies from retired players and lawsuit participants consistently described long-term consequences of management decisions. High-profile legal cases revealed patterns, such as former NFL players testifying that team doctors received financial rewards for denying injury claimsevidence of institutional corruption affecting medical decision-making. This publicly available evidence provided reliable documentation of how malpractice manifests across different stakeholder groups without requiring deceptive data collection or privacy violations.
 
-## Who We Considered Stakeholders & How We Sampled Them
-To understand how sports-management malpractice harms athletes, we pulled in perspectives from a mix of groups: current players, retired players, unions, team executives, agents, medical staff, and fans/media.
+## Stakeholder Sampling and Representation Strategy
 
-We didn’t try to be fully “random.” Instead, we chose representative sources from each group. For example:
-- Statements from the NFLPA president to represent the organized player voice.
-- Interviews with retired athletes discussing long-term injuries and financial struggles.
-- Comments from agents/financial advisors who’ve seen players get taken advantage of.
-- League office press conferences to see how management frames these issues.
+The stakeholder mapping strategy identified diverse groups affected by and responsible for sports management: current players, retired athletes, organized unions, team executives, sports agents and financial advisors, medical staff (team doctors and trainers), and broader audiences (fans and media). Rather than attempting random sampling, the approach selected representative public sources from each stakeholder category to ensure balanced coverage while maintaining methodological clarity about the non-random nature of stakeholder voice collection.
 
-Think of it like running a “virtual” focus group using real public sources. It gave us a balanced mix of views without crossing ethical lines.
+Player representation came from NFLPA leadership statements capturing the organized union voice, alongside individual interviews and public testimony from retired athletes describing long-term injuries and financial consequences. Agent and financial advisor perspectives emerged from trade publication interviews and documented cases of financial exploitation, providing windows into incentive structures and conflicts of interest. League and team ownership perspectives were captured through commissioner statements, public policy documents, and press conference records reflecting how organizational leadership frames athlete welfare issues. Medical staff perspectives came from published criticism of team doctor independence, malpractice case documentation, and medical literature on conflict-of-interest dynamics in team-employed healthcare. This stakeholder sampling approach operated analogously to a "virtual focus group" using existing public materials, yielding balanced stakeholder representation without crossing ethical boundaries around original data collection from vulnerable populations.
 
-## What Each Stakeholder Group Thinks (and Why it Matters)
+## Stakeholder Perspectives and Systemic Implications
 
-### Current & Former Players
-These are the people most affected, so their perspective matters the most.
-Interest: Extremely high.
-Power: Medium on their own, higher when organized.
+**Current and Retired Athletes** occupy the most affected position within the management ecosystem, experiencing direct consequences of malpractice while often lacking power to challenge organizational practices. Their interests in management quality and protection are extremely high, with power varying by individual circumstances but substantially increasing through union organization. Active players frequently hesitate to criticize employers given their dependence on current relationships, while retired athletes speak more openly about feeling treated as disposabledescribing leagues that project care publicly while abandoning players after career termination. Their perspectives ground the problem in lived experience and highlight why malpractice causes not just financial but existential harm to athlete wellbeing.
 
-Active players often don’t feel comfortable calling out their teams, but retired players speak much more openly. Many describe feeling disposable — one former NFL player said the league acts like it cares when cameras are rolling, but not afterward. Their experiences give the issue real emotional weight and make it clear why malpractice is such a problem.
+**Players' Unions** aggregate player interests into collective institutional power, demonstrating very high interest in player safety, benefits, and long-term health alongside substantial influence through collective bargaining. Union statements consistently highlight structural conflicts of interestparticularly regarding team doctor independenceand the tension between league revenue prioritization and athlete welfare commitment. Their role as institutional advocates provides policy-focused critique that complements individual player perspectives.
 
-### Players’ Unions
-Unions fight for players’ safety, benefits, and long-term health.
-Interest: Very high.
-Power: High.
+**Team Owners and League Executives** display high interest in issues affecting business performance, reputation, and scandal avoidance, with extremely high institutional power to shape policies and practices. Public statements from commissioners and ownership emphasize supportive infrastructure and welfare commitments, yet documented evidence reveals gaps between stated policy and practiceincluding management concealment or downplaying of medical issues when acknowledgment would increase costs. Examining this stakeholder group's rhetoric and documented practices illuminates where resistance to reform originates and how institutional incentives can conflict with athlete protection.
 
-They regularly call out conflicts of interest — for example, concerns about team doctors not being independent. They also highlight how leagues tend to prioritize revenue first. Their public statements helped us understand the organized, policy-focused side of the issue.
+**Sports Agents and Financial Advisors** wield moderate power over athlete decision-making while displaying mixed motivationssome genuinely protecting athlete interests while others exploit information asymmetries and trust dependencies. Between 20042017, documented advisor fraud cost professional athletes approximately  million, illustrating how inadequate regulatory oversight enables wealth destruction. Their perspectives and practices reveal how conflicts of interest extend beyond medical contexts into financial management.
 
-### Team Owners & League Executives
-Owners and league officials care deeply about money, reputation, and avoiding scandals.
-Interest: High for business reasons, lower for long-term player welfare.
-Power: Extremely high.
+**Medical Staff** (team doctors and trainers) operate within a fundamental conflict of interest: they are employed by organizations with financial incentives to minimize injury costs rather than maximize patient health. High professional interest intersects with problematic loyalty structures and moderate institutional power. Documented patternsincluding large settlements for negligent surgeries and widespread athlete distrust (evidenced by the 78% NFLPA survey finding)demonstrate how organizational structure shapes medical decision-making away from patient-centered practice.
 
-Commissioners often emphasize how much support leagues *claim* to offer, but other evidence shows management sometimes hides or downplays medical issues to avoid cost. Reviewing this group’s statements helped us see how they justify current policies and where resistance to reform might come from.
+**Fans and Media** possess lower direct stake in management practices but exercise substantial indirect power through public pressure and framing of issues as moral rather than purely business concerns. Their role becomes particularly significant when public sentiment shifts in response to scandals or revelations, creating reputational incentives for organizational change.
 
-### Sports Agents & Financial Advisors
-These people influence players’ contracts and financial decisions.
-Interest: Mixed — some protect players, others exploit them.
-Power: Moderate.
+## Data Analysis and Ethical Framework
 
-Players often trust advisors with everything, which makes financial exploitation dangerous. Between 2004–2017, athletes lost around $500 million to advisor fraud. This helped us see how poor oversight can destroy financial stability long after an athlete retires.
+All evidence analysis operated within a publicly available domain, eliminating sensitive data collection or privacy risks. Cross-verification strategies compared claims across independent sourcesfor instance, verifying athlete-reported medical neglect against independent medical studies and legal documentation. This multi-source verification approach prevented reliance on single potentially biased perspectives while building a reliable picture of how malpractice patterns affect athlete health and financial outcomes across different contexts.
 
-### Medical Staff (Team Doctors & Trainers)
-They’re supposed to protect athletes — but they’re also hired by the team.
-Interest: High professionally, but loyalty can be conflicted.
-Power: Moderate.
-
-The conflict of interest is a big reason so many players say they don’t trust team medical staff. We also looked at malpractice cases, including huge settlements for negligent surgeries. These patterns show how medical decisions can be influenced by team priorities, not patient health.
-
-### Fans & Media
-They’re not directly affected, but they shape public pressure.
-Interest: Medium.
-Power: Indirect but strong when public sentiment shifts.
-
-Fans and journalists push leagues to act when something tragic or unfair happens. Their voices help frame the issue as a moral one — not just a business one.
-
-## Ethical Approach & How We Analyzed the Data
-Everything we used came from the public domain — no sensitive data, no personal contact, no ethical risks. We cross-checked claims wherever possible to avoid relying on a single biased source. When players mentioned struggles, we matched those stories against independent medical studies.
-
-Using this method gave us a reliable picture of how malpractice affects athletes’ health and finances while still respecting every stakeholder’s privacy. It also helped us build a long-term, ethical understanding of the issue without pretending we gathered new data ourselves.
-
+The methodological approach balanced rigor with ethical responsibility: systematic stakeholder analysis without pretending original data collection occurred, transparent acknowledgment of non-random sampling, and documentation of public sources enabling future verification and comparison. The result provides credible understanding of stakeholder perspectives and systemic dynamics while maintaining the privacy protections and ethical standards essential to responsible research engagement with professional sports institutions and vulnerable athlete populations.
