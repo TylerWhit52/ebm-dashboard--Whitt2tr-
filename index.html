@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
     <title>My EBM Dashboard | MGT357 - Fall 2025</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         /* === PROFESSIONAL COLOR SCHEME === */
         :root {
@@ -297,6 +298,59 @@
             white-space: pre-wrap;
             word-wrap: break-word;
             line-height: 1.7;
+        }
+
+        /* === TABLE STYLING === */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.95em;
+            box-shadow: var(--shadow-sm);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        table thead {
+            background: var(--primary-blue);
+            color: white;
+        }
+
+        table th {
+            padding: 14px;
+            text-align: left;
+            font-weight: 600;
+            border-right: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        table th:last-child {
+            border-right: none;
+        }
+
+        table tbody tr {
+            border-bottom: 1px solid var(--border-light);
+            transition: background var(--transition-speed);
+        }
+
+        table tbody tr:hover {
+            background: rgba(59, 130, 246, 0.04);
+        }
+
+        table tbody tr:last-child {
+            border-bottom: none;
+        }
+
+        table td {
+            padding: 12px 14px;
+            border-right: 1px solid var(--border-light);
+        }
+
+        table td:last-child {
+            border-right: none;
+        }
+
+        table strong {
+            color: var(--primary-blue);
         }
 
         .edit-notice {
@@ -869,9 +923,9 @@
                             const content = document.createElement('div');
                             content.className = 'nested-accordion-content';
                             
-                            const pre = document.createElement('pre');
-                            pre.textContent = restOfSection;
-                            content.appendChild(pre);
+                            const div = document.createElement('div');
+                            div.innerHTML = marked.parse(restOfSection);
+                            content.appendChild(div);
 
                             item.appendChild(header);
                             item.appendChild(content);
@@ -883,10 +937,10 @@
                             });
                         });
                     } else {
-                        // Otherwise, just display the whole content in a single pre tag
-                        const pre = document.createElement('pre');
-                        pre.textContent = text;
-                        contentContainer.appendChild(pre);
+                        // Otherwise, just display the whole content as parsed markdown
+                        const div = document.createElement('div');
+                        div.innerHTML = marked.parse(text);
+                        contentContainer.appendChild(div);
                     }
 
                 } catch (error) {
