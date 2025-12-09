@@ -97,14 +97,9 @@
 - Context differences: Roles and responsibilities vary by league/team  
 - Timing factors: Evidence reflects pre- and post-retirement stages inconsistently  
 - Bias influences: Stakeholders may emphasize grievances; organizations may deflect blame  
-- Quality differences: Scientific and organizational data are stronger than anecdotal practitioner reports  
+- Quality differences: Scientific and organizational data are stronger than anecdotal practitioner reports
 
-
-
-
-
-
-
+---
 
 ## Evidence Convergence Matrix
 
@@ -353,4 +348,5 @@ We now have:
 The question is no longer "Is there a problem?" but rather "What are we going to do about it?"
 
 In the next section, we translate this evidence into concrete action—designing interventions that address financial literacy, medical oversight, and agent accountability. These aren't theoretical solutions; they're evidence-based strategies that can measurably reduce harm and restore trust in sports management.
+
 
