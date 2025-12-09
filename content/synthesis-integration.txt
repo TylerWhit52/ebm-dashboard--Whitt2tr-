@@ -4,246 +4,308 @@
 ## Evidence Summary by Type
 
 ### Scientific Evidence Summary
-**Key Finding 1:** [Main research conclusion relevant to your problem]
-- **Source Quality:** [High/Medium/Low]
-- **Relevance to Context:** [How well this applies to your specific situation]
-- **Certainty Level:** [How confident you are in this finding]
+**Key Finding 1:** Financial mismanagement and low financial literacy significantly increase the risk of bankruptcy among professional athletes.
+- **Source Quality:** High
+- **Relevance to Context:** Directly applicable to financial stability in sports management malpractice
+- **Certainty Level:** High
 
-**Key Finding 2:** [Second most important research conclusion]
-- **Source Quality:** [High/Medium/Low]  
-- **Relevance to Context:** [How well this applies to your specific situation]
-- **Certainty Level:** [How confident you are in this finding]
+**Key Finding 2:** Poor injury rehabilitation practices, often linked to organizational malpractice, result in higher injury recurrence and long-term health issues.
+- **Source Quality:** High
+- **Relevance to Context:** Strongly connected to athlete health outcomes
+- **Certainty Level:** High
 
-**Key Finding 3:** [Third most important research conclusion]
-- **Source Quality:** [High/Medium/Low]
-- **Relevance to Context:** [How well this applies to your specific situation]  
-- **Certainty Level:** [How confident you are in this finding]
+**Key Finding 3:** Institutional neglect in sports management structures contributes to both physical and financial harm to athletes post-career.
+- **Source Quality:** Medium
+- **Relevance to Context:** Broadly applicable, highlights system-level malpractice
+- **Certainty Level:** Medium
 
-**Overall Scientific Evidence Strength:** [High/Medium/Low/Insufficient]
+**Overall Scientific Evidence Strength:** High
 
 ### Practitioner Evidence Summary
-**Key Insight 1:** [Main lesson from practitioner experience]
-- **Source Credibility:** [How trustworthy the practitioner source is]
-- **Context Similarity:** [How similar their situation is to yours]
-- **Implementation Detail:** [How much you know about how they did it]
+**Key Insight 1:** Veteran team executives emphasize the need for transparent financial education and post-career planning for athletes.
+- **Source Credibility:** High
+- **Context Similarity:** Very similar (sports management professionals)
+- **Implementation Detail:** Moderate (examples given from NBA/NFL programs)
 
-**Key Insight 2:** [Second most important practitioner lesson]
-- **Source Credibility:** [How trustworthy the practitioner source is]
-- **Context Similarity:** [How similar their situation is to yours]
-- **Implementation Detail:** [How much you know about how they did it]
+**Key Insight 2:** Experienced athletic trainers note recurring issues with misaligned medical protocols and inadequate long-term care planning.
+- **Source Credibility:** Medium
+- **Context Similarity:** Moderate (varies across sports organizations)
+- **Implementation Detail:** Low (general insights, less detail)
 
-**Key Insight 3:** [Third most important practitioner lesson]
-- **Source Credibility:** [How trustworthy the practitioner source is]
-- **Context Similarity:** [How similar their situation is to yours]
-- **Implementation Detail:** [How much you know about how they did it]
+**Key Insight 3:** Player agents report significant differences in outcomes depending on team investment in career transition programs.
+- **Source Credibility:** High
+- **Context Similarity:** High
+- **Implementation Detail:** High
 
-**Overall Practitioner Evidence Strength:** [High/Medium/Low/Insufficient]
-
+**Overall Practitioner Evidence Strength:** Medium
 ### Organizational Evidence Summary
-**Key Data Point 1:** [Most important organizational fact/metric]
-- **Data Quality:** [How reliable and accurate this data is]
-- **Trend Direction:** [Whether this suggests problem is getting better/worse/stable]
-- **Decision Relevance:** [How directly this informs your decision]
+**Key Data Point 1:** 14% of athletes go bankrupt within 3 years of retirement
+- **Data Quality:** High
+- **Trend Direction:** Stable
+- **Decision Relevance:** Strong indicator of financial mismanagement
 
-**Key Data Point 2:** [Second most important organizational fact/metric]
-- **Data Quality:** [How reliable and accurate this data is]
-- **Trend Direction:** [Whether this suggests problem is getting better/worse/stable]
-- **Decision Relevance:** [How directly this informs your decision]
+**Key Data Point 2:** Injury recurrence rate of 28%, above 15% league average
+- **Data Quality:** High
+- **Trend Direction:** Slight increase
+- **Decision Relevance:** Highlights issue with recovery protocols
 
-**Key Data Point 3:** [Third most important organizational fact/metric]
-- **Data Quality:** [How reliable and accurate this data is]
-- **Trend Direction:** [Whether this suggests problem is getting better/worse/stable]
-- **Decision Relevance:** [How directly this informs your decision]
+**Key Data Point 3:** 33% of retired athletes request emergency loans
+- **Data Quality:** Medium
+- **Trend Direction:** Stable
+- **Decision Relevance:** Reveals weak financial safety nets post-career
 
-**Overall Organizational Evidence Strength:** [High/Medium/Low/Insufficient]
-
+**Overall Organizational Evidence Strength:** High
 ### Stakeholder Evidence Summary
-**Key Stakeholder Insight 1:** [Most important stakeholder perspective]
-- **Representative Level:** [How well this represents broader stakeholder views]
-- **Bias Assessment:** [Potential biases in this perspective]
-- **Implementation Implication:** [What this means for how you implement]
+**Key Stakeholder Insight 1:** Athletes express concerns about lack of financial literacy support and misaligned medical priorities
+- **Representative Level:** High (based on anonymous team surveys)
+- **Bias Assessment:** Low (anonymity reduces bias)
+- **Implementation Implication:** Suggests need for structural reform and ongoing athlete support
 
-**Key Stakeholder Insight 2:** [Second most important stakeholder perspective] 
-- **Representative Level:** [How well this represents broader stakeholder views]
-- **Bias Assessment:** [Potential biases in this perspective]
-- **Implementation Implication:** [What this means for how you implement]
+**Key Stakeholder Insight 2:** Retired players advocate for mandatory post-career planning programs
+- **Representative Level:** Moderate
+- **Bias Assessment:** Moderate (personal experience may skew)
+- **Implementation Implication:** Important for long-term wellbeing planning
 
-**Key Stakeholder Insight 3:** [Third most important stakeholder perspective]
-- **Representative Level:** [How well this represents broader stakeholder views]
-- **Bias Assessment:** [Potential biases in this perspective] 
-- **Implementation Implication:** [What this means for how you implement]
+**Key Stakeholder Insight 3:** Families of athletes report poor communication from management during rehab and retirement transitions
+- **Representative Level:** Moderate
+- **Bias Assessment:** Moderate
+- **Implementation Implication:** Indicates communication strategy and care structure issues
 
-**Overall Stakeholder Evidence Strength:** [High/Medium/Low/Insufficient]
-
-## Cross-Evidence Analysis
-
-### Convergent Findings (Where Evidence Types Agree)
+**Overall Stakeholder Evidence Strength:** Medium
+### Cross-Evidence Analysis
 
 #### Strong Convergence
-**Finding:** [What multiple evidence types consistently support]
-**Supporting Evidence Types:** [Which types of evidence support this]
-**Confidence Level:** [High/Medium/Low] - [Why you're confident in this]
-**Implication:** [What this convergent finding means for your decision]
+**Finding:** Mismanagement in sports organizations contributes directly to financial instability and recurring injuries among athletes.
+**Supporting Evidence Types:** Scientific, Organizational, Stakeholder  
+**Confidence Level:** High – Supported by quantitative data (e.g., bankruptcy, injury recurrence), research, and stakeholder testimony  
+**Implication:** Interventions should prioritize correcting internal malpractice structures to improve athlete outcomes
 
 #### Moderate Convergence  
-**Finding:** [What some evidence types support with some variation]
-**Supporting Evidence Types:** [Which types of evidence support this]
-**Variation Notes:** [How the evidence types differ slightly in their conclusions]
-**Implication:** [What this means for your decision]
+**Finding:** Lack of post-retirement support planning increases long-term risk for athletes  
+**Supporting Evidence Types:** Practitioner, Stakeholder, Scientific  
+**Variation Notes:** Stakeholders emphasize financial education, while practitioners stress structural programs; research focuses on correlation with instability  
+**Implication:** Any solution should integrate both education and institutional safety nets
 
-### Divergent Findings (Where Evidence Types Disagree)
+#### Major Divergence  
+**Issue:** Who should be responsible for long-term athlete welfare—league, teams, or athletes themselves?  
+**Scientific Evidence Says:** Organizational structures often lack safeguards, implying system responsibility  
+**Practitioner Evidence Says:** Solutions must be led by team managers but include external financial advisors  
+**Organizational Evidence Says:** Inconsistent systems suggest unclear accountability  
+**Stakeholder Evidence Says:** Athletes want both organizational responsibility and personal agency  
 
-#### Major Divergence
-**Issue:** [What the evidence types disagree about]
-**Scientific Evidence Says:** [What research suggests]
-**Practitioner Evidence Says:** [What practitioners report]
-**Organizational Evidence Says:** [What your data shows]
-**Stakeholder Evidence Says:** [What stakeholders believe]
+**Possible Explanations for Disagreement:**  
+- Context differences: Roles and responsibilities vary by league/team  
+- Timing factors: Evidence reflects pre- and post-retirement stages inconsistently  
+- Bias influences: Stakeholders may emphasize grievances; organizations may deflect blame  
+- Quality differences: Scientific and organizational data are stronger than anecdotal practitioner reports  
 
-**Possible Explanations for Disagreement:**
-- Context differences: [How different contexts might explain the disagreement]
-- Timing factors: [How when evidence was collected might matter]
-- Bias influences: [How biases might create apparent disagreements]
-- Quality differences: [How evidence quality might explain disagreements]
+**Resolution Approach:** Use a dual-accountability model—shared responsibility between institutions and players—with policy enforcement
 
-**Resolution Approach:** [How you'll handle this disagreement in your decision]
+#### Minor Divergence  
+**Issue:** How soon should interventions begin (during career vs. post-retirement)?  
+**Resolution Approach:** Begin during active years with continuity plans for retirement support
+## Evidence Gaps
 
-#### Minor Divergence
-**Issue:** [What the evidence types disagree about - less critical]
-**Resolution Approach:** [How you'll handle this disagreement]
+### Critical Gaps
+**Gap 1:** Lack of standardized metrics across teams for monitoring malpractice-related outcomes  
+- **Impact on Decision:** Makes it difficult to benchmark and compare effectiveness of interventions  
+- **Mitigation Strategy:** Develop a uniform reporting and evaluation framework in partnership with stakeholders
 
-### Evidence Gaps
+**Gap 2:** Limited longitudinal data tracking athletes’ financial and health outcomes post-retirement  
+- **Impact on Decision:** Reduces confidence in long-term projections and solution impact modeling  
+- **Mitigation Strategy:** Begin new data collection initiatives while using short-term indicators as proxies
 
-#### Critical Gaps
-**Gap 1:** [Important question none of your evidence answers well]
-- **Impact on Decision:** [How this gap affects your ability to decide]
-- **Mitigation Strategy:** [How you'll proceed despite this gap]
-
-**Gap 2:** [Second important question with insufficient evidence]
-- **Impact on Decision:** [How this gap affects your ability to decide]
-- **Mitigation Strategy:** [How you'll proceed despite this gap]
-
-#### Minor Gaps
-**Gap:** [Less critical question with insufficient evidence]
-**Mitigation Strategy:** [How you'll handle this]
-
+### Minor Gaps
+**Gap:** Limited insight into the role of agents and third-party advisors in malpractice  
+**Mitigation Strategy:** Include stakeholder interviews and exploratory reviews in follow-up research
 ## Evidence-Based Problem Refinement
 
 ### Original Problem Statement
-[Your original problem definition]
+To what extent does malpractice in sports management impact the financial stability and long-term health of professional athletes?
 
 ### Evidence-Refined Problem Statement  
-[How your understanding of the problem has changed based on all the evidence]
+How does malpractice—defined as neglect, misrepresentation, or lack of fiduciary duty by sports management professionals—contribute to measurable long-term financial instability and health deterioration among professional athletes, and what integrated strategies can be implemented to mitigate these effects?
 
 **Key Refinements:**
-- **Scope Changes:** [How evidence changed your understanding of problem scope]
-- **Root Cause Updates:** [How evidence changed your understanding of causes]
-- **Impact Reassessment:** [How evidence changed your understanding of problem impact]
-- **Stakeholder Effects:** [How evidence revealed different stakeholder impacts than expected]
-
+- **Scope Changes:** The problem is broader than just contract mismanagement; includes health decision-making, post-career planning, and inadequate support systems.
+- **Root Cause Updates:** Evidence suggests the core issue is systemic neglect—agents, management firms, and even leagues often fail to prioritize athlete longevity over short-term gain.
+- **Impact Reassessment:** Financial instability (e.g., 14% bankruptcy rate, 33% needing emergency loans) and recurring injuries (28%) highlight deeper structural problems.
+- **Stakeholder Effects:** Beyond athletes, issues affect teams, leagues, and player unions who bear reputational, legal, and cost burdens if malpractice goes unchecked.
 ## Evidence-Based Solution Development
 
 ### Original Solution Concept
-[Your initial solution idea]
+Create a financial literacy and post-career health program delivered through player unions and enforced through mandatory management compliance.
 
 ### Evidence-Informed Solution Design
-[How your solution has evolved based on evidence]
+A multi-pronged solution involving mandatory fiduciary training and licensing for agents, a centralized post-career transition program (covering financial counseling and long-term health check-ins), and a third-party oversight body to audit management practices and player outcomes.
 
 **Scientific Evidence Contributions:**
-- **Design Elements:** [What research suggests should be included in solution]
-- **Implementation Approaches:** [What research says about how to implement]
-- **Success Factors:** [What research identifies as crucial for success]
+- **Design Elements:** Financial literacy programs (Chung & Grable, 2016) significantly improve decision-making and planning among athletes; long-term health monitoring reduces injury recurrence (Turner & Brown, 2018).
+- **Implementation Approaches:** Peer-led workshops and third-party facilitators showed more lasting behavioral change than league-led initiatives.
+- **Success Factors:** Voluntary programs often fail—must be embedded within contracts or league mandates.
 
 **Practitioner Evidence Contributions:**
-- **Practical Modifications:** [How practitioner experience suggests modifying your approach]
-- **Implementation Lessons:** [What practitioners learned about implementation]
-- **Avoiding Pitfalls:** [What practitioners say not to do]
+- **Practical Modifications:** Former league administrators emphasize buy-in from agents is key; incentive-based programs (reduced fees, higher representation ratings) increase compliance.
+- **Implementation Lessons:** Programs failed when not personalized—offering trackable financial goal-setting and individualized injury tracking improved uptake.
+- **Avoiding Pitfalls:** Do not assume players will engage post-retirement unless touchpoints are built during active years.
 
 **Organizational Evidence Contributions:**  
-- **Resource Requirements:** [What organizational data suggests about resource needs]
-- **Timing Considerations:** [What organizational data suggests about timing]
-- **Readiness Assessment:** [Whether organizational data suggests readiness for solution]
+- **Resource Requirements:** Estimated program cost is offset by reduction in loan payouts and lawsuit risk; HR and medical staff can reallocate time due to lower injury recurrence.
+- **Timing Considerations:** Pre-season onboarding is optimal, paired with quarterly check-ins.
+- **Readiness Assessment:** Union platforms and team structures are prepared to distribute resources; existing internal surveys show interest.
 
 **Stakeholder Evidence Contributions:**
-- **Stakeholder Support Elements:** [What needs to be included to maintain stakeholder support]
-- **Resistance Management:** [How to address stakeholder concerns and resistance]
-- **Communication Needs:** [What stakeholders need to know and when]
-
+- **Stakeholder Support Elements:** Players favor autonomy and trust third-party financial coaches more than team staff.
+- **Resistance Management:** Address agent resistance by co-branding success stories and offering certification perks.
+- **Communication Needs:** Transparent impact dashboards and testimonials from retired players build buy-in and normalize program participation.
 ## Integrated Evidence Assessment
 
 ### Overall Evidence Quality
 
 #### Evidence Strength by Decision Component
-**Problem Definition:** [How well all evidence supports your problem understanding]
-- Strongest Supporting Evidence: [Which evidence type most strongly supports problem definition]
-- Evidence Quality: [High/Medium/Low]
 
-**Solution Design:** [How well all evidence supports your solution approach]
-- Strongest Supporting Evidence: [Which evidence type most strongly supports solution design]
-- Evidence Quality: [High/Medium/Low]
+**Problem Definition:** Strongly supported by scientific and organizational evidence.
+- Strongest Supporting Evidence: Scientific (Chung & Grable, 2016; Turner & Brown, 2018)
+- Evidence Quality: High
 
-**Implementation Approach:** [How well all evidence supports your implementation plan]
-- Strongest Supporting Evidence: [Which evidence type most strongly supports implementation approach]
-- Evidence Quality: [High/Medium/Low]
+**Solution Design:** Supported by a mix of practitioner insights and scientific studies.
+- Strongest Supporting Evidence: Practitioner (lessons from agent compliance and transition programs)
+- Evidence Quality: Medium–High
 
-**Success Prediction:** [How well all evidence supports predictions about success]
-- Strongest Supporting Evidence: [Which evidence type most strongly supports success predictions]
-- Evidence Quality: [High/Medium/Low]
+**Implementation Approach:** Practitioners and stakeholder insights provide strong guidance.
+- Strongest Supporting Evidence: Stakeholder and Practitioner
+- Evidence Quality: Medium
+
+**Success Prediction:** Evidence indicates success is likely with mandatory compliance and third-party oversight.
+- Strongest Supporting Evidence: Scientific and Organizational
+- Evidence Quality: Medium
 
 #### Evidence-Based Confidence Assessment
-**Overall Confidence in Decision:** [High/Medium/Low]
 
-**High Confidence Areas:** [Decision aspects where evidence is strong and convergent]
-**Medium Confidence Areas:** [Decision aspects where evidence is moderate or somewhat mixed]
-**Low Confidence Areas:** [Decision aspects where evidence is weak or highly divergent]
+**Overall Confidence in Decision:** Medium–High
+
+**High Confidence Areas:**
+- Problem scope and root causes
+- Financial instability and injury mismanagement link
+
+**Medium Confidence Areas:**
+- Implementation methods (still reliant on stakeholder compliance)
+- Long-term engagement
+
+**Low Confidence Areas:**
+- Agent cooperation and consistent third-party enforcement
 
 ### Risk Assessment Based on Evidence
 
 #### Risks with Strong Evidence Support
-**Risk 1:** [Risk that multiple evidence types consistently identify]
-- **Likelihood:** [High/Medium/Low based on evidence]
-- **Impact:** [High/Medium/Low based on evidence]
-- **Mitigation Strategy:** [How you'll address this evidence-supported risk]
+
+**Risk 1:** Agent resistance undermining solution rollout
+- **Likelihood:** High
+- **Impact:** High
+- **Mitigation Strategy:** Incentivize adoption, offer certifications and league-endorsed visibility for compliant agents
 
 #### Risks with Weak Evidence Support
-**Risk:** [Risk that only one type of evidence suggests or that evidence is mixed on]
-- **Evidence Uncertainty:** [Why evidence doesn't clearly support this risk]
-- **Approach:** [How you'll handle this uncertain risk]
 
+**Risk:** Players disengage post-retirement despite resource availability
+- **Evidence Uncertainty:** Limited long-term tracking studies on post-retirement behavior
+- **Approach:** Embed retention metrics early and personalize outreach to maintain engagement
 ## Evidence-Based Recommendations
 
-### Recommendation 1: [Primary recommendation based on integrated evidence]
-**Supporting Evidence Types:** [Which evidence types support this recommendation]
-**Confidence Level:** [High/Medium/Low]
-**Implementation Priority:** [High/Medium/Low]
+### Recommendation 1: Implement League-Mandated Certified Sports Agent Registry
+**Supporting Evidence Types:** Scientific, Practitioner, Organizational
+**Confidence Level:** High  
+**Implementation Priority:** High  
 
 **Evidence Basis:**
-- **Scientific Support:** [How research supports this recommendation]
-- **Practitioner Support:** [How practitioner experience supports this recommendation]  
-- **Organizational Support:** [How organizational data supports this recommendation]
-- **Stakeholder Support:** [How stakeholder input supports this recommendation]
+- **Scientific Support:** Institutional neglect and misaligned financial advising (Richards & Connell, 2020) strongly suggest need for oversight.
+- **Practitioner Support:** Agents who adhere to NFLPA standards see fewer client bankruptcies.
+- **Organizational Support:** 14% bankruptcy rate and high emergency loan dependency trace back to agent misguidance.
+- **Stakeholder Support:** Athletes express desire for vetted and trustworthy support professionals.
 
-### Recommendation 2: [Second recommendation based on integrated evidence]
-[Follow same structure as Recommendation 1]
+### Recommendation 2: Establish League-Funded Retirement & Injury Recovery Navigation Program
+**Supporting Evidence Types:** Scientific, Organizational, Stakeholder
+**Confidence Level:** Medium–High  
+**Implementation Priority:** High  
 
-### Recommendation 3: [Third recommendation based on integrated evidence]
-[Follow same structure as Recommendation 1]
+**Evidence Basis:**
+- **Scientific Support:** Turner & Brown (2018) highlight long-term injury consequences; support programs reduce recurrence.
+- **Practitioner Support:** Limited examples exist, but case studies of pilot programs show reduced post-career instability.
+- **Organizational Support:** Injury recurrence rate at 28% and 33% of players requesting emergency aid underscores systemic gaps.
+- **Stakeholder Support:** Retired athletes are vocal about their difficulty navigating healthcare and financial aid post-retirement.
 
+### Recommendation 3: Integrate Transition Preparation Curriculum into Rookie Symposium and Exit Interviews
+**Supporting Evidence Types:** Scientific, Practitioner, Stakeholder  
+**Confidence Level:** Medium  
+**Implementation Priority:** Medium  
+
+**Evidence Basis:**
+- **Scientific Support:** Chung & Grable (2016) point to lack of financial literacy and planning among athletes.
+- **Practitioner Support:** Teams that include financial advisors and post-career counseling report lower athlete dropout and stress.
+- **Organizational Support:** Moderate—internal data suggests little consistent exit planning support.
+- **Stakeholder Support:** Athletes want guidance earlier in career, not just at retirement phase.
 ## Evidence Limitations and Uncertainties
 
 ### Key Limitations Affecting Recommendations
-[The most important limitations in your evidence base that affect your recommendations]
+- **Small Number of Empirical Studies Focused on Sports Management Malpractice:** Most existing research generalizes professional athlete outcomes but lacks causal depth on specific managerial malpractice.
+- **Self-Reported Data from Practitioners and Stakeholders:** Practitioner insights and stakeholder interviews are valuable but inherently biased, especially when tied to financial outcomes or reputational risks.
+- **Limited Access to Proprietary Organizational Data:** Metrics like emergency loan requests and post-retirement outcomes were drawn from estimated or anonymized internal logs and may lack consistency across organizations.
+- **Inconsistent Terminology in the Literature:** What constitutes "malpractice" varies greatly across studies — some include medical errors, others include financial misadvising, making synthesis complex.
 
 ### Uncertainties Requiring Monitoring
-[Things you'll need to track during implementation because evidence is uncertain]
+- **Long-Term Impact of Certified Agent Registries:** While early signs are positive, widespread implementation effects remain unproven across different sports leagues and contexts.
+- **Player Participation in Transition Programs:** Even when resources are available, player engagement may be low due to cultural norms, skepticism, or time constraints.
+- **Shifting Industry Dynamics:** Athlete needs and league regulations are changing rapidly (e.g., NIL laws, health benefit reforms), requiring flexible adaptation of any intervention strategy.
 
 ### Future Evidence Needs
-[Additional evidence you should collect during or after implementation]
+- **Longitudinal Studies on Athlete Financial Stability Post-Retirement:** Better tracking mechanisms are needed to determine causal links between management quality and long-term financial health.
+- **Comparative Studies Across Leagues and Countries:** Understanding how malpractice and support systems vary between the NFL, NBA, MLB, and global leagues would enhance generalizability.
+- **Experimental Pilots of Transition and Oversight Programs:** League-funded pilots with clear KPIs would help validate program efficacy before scaling.
+## Bayesian Evidence Synthesis
 
----
-INSTRUCTIONS:
-1. Look for patterns where different evidence types support similar conclusions
-2. Pay special attention to disagreements between evidence types
-3. Use evidence integration to refine both your problem understanding and solution design
-4. Be honest about where evidence is strong vs. weak
-5. Make recommendations that are proportional to the strength of supporting evidence
+### Hypothesis:
+Improved managerial oversight and structured athlete support programs reduce long-term financial and health instability among professional athletes.
+
+### Scientific Evidence
+**Prior Probability:** 55%  
+**Justification:** Moderate baseline assumption given widespread reports of instability but lack of clarity on malpractice’s role.  
+**Likelihood Ratio:** 3.2:1  
+**Rationale:** Strong support from peer-reviewed studies linking managerial behavior to athlete outcomes.  
+**Posterior Probability:** 77%
+
+### Practitioner Evidence
+**Prior Probability:** 77%  
+**Justification:** Many practitioners firmly believe mismanagement is core to athlete risk.  
+**Likelihood Ratio:** 2.5:1  
+**Rationale:** Strong narrative confirmation from former players and agents.  
+**Posterior Probability:** 88%
+
+### Organizational Evidence
+**Prior Probability:** 88%  
+**Justification:** High prior based on alarming internal metrics like bankruptcy and emergency loan requests.  
+**Likelihood Ratio:** 1.5:1  
+**Rationale:** Supports the hypothesis, but some data may reflect external causes too.  
+**Posterior Probability:** 92%
+
+### Stakeholder Evidence
+**Prior Probability:** 60%  
+**Justification:** Mixed stakeholder perspectives—some blame personal decisions, others mismanagement.  
+**Likelihood Ratio:** 1.8:1  
+**Rationale:** Moderate support based on representative views and recurring concerns.  
+**Posterior Probability:** 75%
+
+### Final Integrated Synthesis
+**Integrated Posterior Probability:** ~83%  
+Combining all sources, strong belief emerges that malpractice is a critical contributor to long-term athlete instability.
+
+### Confidence:
+**High Confidence** in the X → Y hypothesis based on strong convergence of evidence from all four sources.
+
+### Convergent Patterns:
+Scientific, practitioner, and organizational evidence all reinforce each other around financial and recovery mismanagement.
+
+### Conflicts:
+Some stakeholder views present cultural/individual responsibility angles, slightly lowering certainty.
+
+### Final Statement:
+Evidence integration using Bayesian reasoning increases belief in the hypothesis from a moderate 55% to a strong 83%.
+
