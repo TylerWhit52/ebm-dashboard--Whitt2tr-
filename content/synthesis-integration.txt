@@ -149,8 +149,6 @@ The table below provides a visual summary of how each evidence type supports key
 **Minor Gap:** Limited insight into the role of agents and third-party advisors in malpractice  
 - **Mitigation Strategy:** Include stakeholder interviews and exploratory reviews in follow-up research
 
----
-
 ## Evidence-Based Problem Refinement
 
 ### Original Problem Statement
@@ -341,8 +339,6 @@ Some stakeholder views present cultural/individual responsibility angles, slight
 
 ### Final Statement:
 Evidence integration using Bayesian reasoning increases belief in the hypothesis from a moderate 55% to a strong 83%.
-
----
 
 ## Bridge to Action: From Evidence to Solution
 
