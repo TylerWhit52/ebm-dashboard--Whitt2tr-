@@ -844,7 +844,9 @@
                     
                     // Clear previous content and parse the new text
                     contentContainer.innerHTML = ''; 
-                    const sections = text.split('---').filter(s => s.trim() !== '');
+                    // Split by "---" only when it appears on its own line (anchored by newlines)
+                    // This prevents splitting tables that contain "|---|"
+                    const sections = text.split(/^---$/m).filter(s => s.trim() !== '');
 
                     if (sections.length > 1) {
                         // If file is sectioned with "---", create nested accordions
