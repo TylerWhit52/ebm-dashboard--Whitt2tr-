@@ -874,8 +874,14 @@
                             content.className = 'nested-accordion-content';
                             
                             const div = document.createElement('div');
-                            div.style.whiteSpace = 'pre-wrap';
-                            div.textContent = restOfSection;
+                            
+                            // Convert markdown table to HTML for "Evidence Convergence Matrix" only
+                            if (sectionTitle.includes('Evidence Convergence Matrix')) {
+                                div.innerHTML = convertMarkdownTableToHTML(restOfSection);
+                            } else {
+                                div.style.whiteSpace = 'pre-wrap';
+                                div.textContent = restOfSection;
+                            }
                             content.appendChild(div);
 
                             item.appendChild(header);
@@ -901,6 +907,64 @@
                     contentContainer.innerHTML = `<pre>[Error loading content for ${filename}. Please ensure the file exists and the page is served via a web server.]</pre>`;
                 }
             }
+        }
+
+        // Simple markdown table to HTML converter (preserves text styling)
+        function convertMarkdownTableToHTML(markdown) {
+            const lines = markdown.split('\n');
+            let html = '';
+            let inTable = false;
+            let tableHTML = '';
+            
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                
+                // Check if this is a table row
+                if (line.startsWith('|') && line.endsWith('|')) {
+                    if (!inTable) {
+                        tableHTML = '<table style="width:100%; border-collapse:collapse; margin:20px 0;"><tbody>';
+                        inTable = true;
+                    }
+                    
+                    // Skip separator row
+                    if (line.includes('---')) continue;
+                    
+                    // Parse table row
+                    const cells = line.split('|').filter(c => c.trim() !== '');
+                    const isHeader = i === 0 || (i === 1 && lines[i+1] && lines[i+1].includes('---'));
+                    
+                    tableHTML += '<tr>';
+                    cells.forEach(cell => {
+                        const cellContent = cell.trim();
+                        if (isHeader && !tableHTML.includes('</tr>')) {
+                            tableHTML += `<th style="border:1px solid #ddd; padding:12px; background:#f4f4f4; text-align:left;">${cellContent}</th>`;
+                        } else {
+                            tableHTML += `<td style="border:1px solid #ddd; padding:10px;">${cellContent}</td>`;
+                        }
+                    });
+                    tableHTML += '</tr>';
+                } else {
+                    // Not a table row
+                    if (inTable) {
+                        tableHTML += '</tbody></table>';
+                        html += tableHTML;
+                        tableHTML = '';
+                        inTable = false;
+                    }
+                    // Add regular text with line breaks preserved
+                    if (line) {
+                        html += `<p style="margin:10px 0;">${line}</p>`;
+                    }
+                }
+            }
+            
+            // Close table if still open
+            if (inTable) {
+                tableHTML += '</tbody></table>';
+                html += tableHTML;
+            }
+            
+            return html || markdown;
         }
 
         // Function to simulate opening content files in VS Code
