@@ -852,7 +852,10 @@
                         sections.forEach((section, index) => {
                             const sectionTrimmed = section.trim();
                             const firstLine = sectionTrimmed.substring(0, sectionTrimmed.indexOf('\n')).trim();
-                            const sectionTitle = firstLine.replace(/#/g, '').trim();
+                            // Prefer the first markdown heading inside the section for the title (e.g., "## Evidence Convergence Matrix")
+                            const headingMatch = sectionTrimmed.match(/^#+\s*(.+)$/m);
+                            const headingTitle = headingMatch ? headingMatch[1].trim() : '';
+                            const sectionTitle = (headingTitle || firstLine).replace(/#/g, '').trim();
                             
                             // Skip sections without proper titles (to avoid "Section" placeholders)
                             if (!sectionTitle || sectionTitle === '') {
