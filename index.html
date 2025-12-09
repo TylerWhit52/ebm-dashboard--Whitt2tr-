@@ -31,12 +31,12 @@
         }
 
         html {
-            background: #ff0000 !important;
+            background: #1a2f4f !important;
         }
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', 'Helvetica Neue', sans-serif;
-            background: #ff0000 !important;
+            background: #1a2f4f !important;
             min-height: 100vh;
             padding: 20px;
             color: var(--text-primary);
@@ -87,13 +87,13 @@
         /* === MODERN TAB SYSTEM === */
         .tab-nav {
             display: flex;
-            background: var(--card-bg);
-            border-bottom: 2px solid var(--border-light);
+            background: transparent;
+            border-bottom: 2px solid rgba(255, 255, 255, 0.2);
             overflow-x: auto;
             position: sticky;
             top: 0;
             z-index: 100;
-            box-shadow: var(--shadow-sm);
+            box-shadow: none;
         }
 
         .tab-button {
@@ -103,7 +103,7 @@
             text-align: center;
             cursor: pointer;
             background: transparent;
-            color: var(--text-secondary);
+            color: rgba(255, 255, 255, 0.7);
             font-weight: 600;
             font-size: 0.95em;
             transition: all var(--transition-speed);
@@ -113,14 +113,14 @@
         }
 
         .tab-button:hover {
-            color: var(--secondary-blue);
-            background: rgba(59, 130, 246, 0.05);
+            color: #ffffff;
+            background: rgba(255, 255, 255, 0.1);
         }
 
         .tab-button.active {
-            color: var(--secondary-blue);
-            border-bottom-color: var(--secondary-blue);
-            background: rgba(59, 130, 246, 0.08);
+            color: #ffffff;
+            border-bottom-color: #ffffff;
+            background: rgba(255, 255, 255, 0.15);
         }
 
         .tab-content {
