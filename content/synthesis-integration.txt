@@ -99,6 +99,8 @@
 - Bias influences: Stakeholders may emphasize grievances; organizations may deflect blame  
 - Quality differences: Scientific and organizational data are stronger than anecdotal practitioner reports
 
+---
+
 ## Evidence Convergence Matrix
 
 The table below provides a visual summary of how each evidence type supports key findings. This helps identify where we have strong cross-evidence agreement (●●●●), partial support (●●○○), or divergence (●○○○).
@@ -128,6 +130,8 @@ The table below provides a visual summary of how each evidence type supports key
 **Critical Implication:** Your solution should prioritize interventions with strong convergence (financial education, injury protocols, career planning) while treating lower-convergence areas (mandatory compliance structures) as adaptive elements requiring stakeholder input.
 
 **Resolution Approach:** Use a dual-accountability model—shared responsibility between institutions and players—with policy enforcement. Begin during active years with continuity plans for retirement support.
+
+---
 
 ### Evidence Gaps
 
