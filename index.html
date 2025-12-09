@@ -849,8 +849,14 @@
                         // If file is sectioned with "---", create nested accordions
                         sections.forEach((section, index) => {
                             const sectionTrimmed = section.trim();
-                            const firstLine = sectionTrimmed.substring(0, sectionTrimmed.indexOf('\n')).trim() || "Section";
+                            const firstLine = sectionTrimmed.substring(0, sectionTrimmed.indexOf('\n')).trim();
                             const sectionTitle = firstLine.replace(/#/g, '').trim();
+                            
+                            // Skip sections without proper titles (to avoid "Section" placeholders)
+                            if (!sectionTitle || sectionTitle === '') {
+                                return;
+                            }
+                            
                             const restOfSection = sectionTrimmed.substring(sectionTrimmed.indexOf('\n') + 1).trim();
 
                             const item = document.createElement('div');
